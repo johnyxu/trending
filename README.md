@@ -35,6 +35,8 @@ Each run writes three files under `<YYYY-MM-DD>/`:
 └── trending-month.md
 ```
 
+The default date is today's date **in Melbourne local time** (`Australia/Melbourne`, via `zoneinfo`), not the machine's system timezone — this matters on GitHub Actions runners, which default to UTC and would otherwise be up to a day behind Melbourne.
+
 If that date's three files already exist, the script skips scraping (pass `--force` to override) and instead appends a `status=skipped` line to `logs/run.log`. Every run — scraped or skipped — appends one line to `logs/run.log` with a UTC timestamp:
 
 ```
