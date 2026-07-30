@@ -2,7 +2,7 @@ name: Daily GitHub Trending Scrape
 
 on:
   schedule:
-    - cron: "26 22 * * *" # 22:25 UTC = 08:25 AEST (Melbourne, currently no DST)
+    - cron: "26 22 * * *" # 22:26 UTC = 08:26 AEST (Melbourne, currently no DST)
   workflow_dispatch: {}
 
 permissions:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -- '*/trending-*.md'
+          git add -- '*/trending-*.md' logs/run.log
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

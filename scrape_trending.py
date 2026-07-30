@@ -29,6 +29,15 @@ RANGES = {
 }
 
 OUTPUT_ROOT = Path(__file__).resolve().parent
+LOG_PATH = OUTPUT_ROOT / "logs" / "run.log"
+
+
+def log_run(date_str: str, status: str, detail: str) -> None:
+    LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
+    line = f"{now_utc.isoformat(timespec='seconds')} | date={date_str} | status={status} | {detail}\n"
+    with LOG_PATH.open("a", encoding="utf-8") as f:
+        f.write(line)
 
 
 def fetch_trending(since: str, spoken_language_code: str = "") -> list[dict]:
@@ -107,12 +116,21 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Scrape GitHub Trending into Markdown files.")
     parser.add_argument("--lang", default="", help="spoken_language_code query param, e.g. 'en' (default: all languages)")
     parser.add_argument("--date", default=None, help="Override output date folder, format YYYY-MM-DD (default: today)")
+    parser.add_argument("--force", action="store_true", help="Re-scrape even if today's files already exist")
     args = parser.parse_args()
 
     date_str = args.date or datetime.date.today().isoformat()
     out_dir = OUTPUT_ROOT / date_str
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    expected_files = [out_dir / filename for _, filename in RANGES.values()]
+    if not args.force and all(f.exists() for f in expected_files):
+        detail = "already generated today; use --force to re-run"
+        log_run(date_str, status="skipped", detail=detail)
+        print(f"[skip] {date_str} {detail}")
+        return 0
+
+    counts = {}
     for label, (since, filename) in RANGES.items():
         try:
             repos = fetch_trending(since, args.lang)
@@ -123,8 +141,10 @@ def main() -> int:
         markdown = render_markdown(label, date_str, repos)
         out_path = out_dir / filename
         out_path.write_text(markdown, encoding="utf-8")
+        counts[label] = len(repos)
         print(f"[ok] {label}: {len(repos)} repos -> {out_path}")
 
+    log_run(date_str, status="scraped", detail=", ".join(f"{k}={v}" for k, v in counts.items()))
     return 0
 
 
