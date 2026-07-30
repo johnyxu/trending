@@ -2,7 +2,7 @@ name: Daily GitHub Trending Scrape
 
 on:
   schedule:
-    - cron: "0 1 * * *" # 01:00 UTC = 09:00 AEST/11:00 AEDT
+    - cron: "25 22 * * *" # 22:25 UTC = 08:25 AEST (Melbourne, currently no DST)
   workflow_dispatch: {}
 
 permissions:
