@@ -15,12 +15,14 @@ import datetime
 import re
 import sys
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 
 TRENDING_URL = "https://github.com/trending"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; trending-scraper/1.0)"}
+LOCAL_TZ = ZoneInfo("Australia/Melbourne")
 
 RANGES = {
     "today": ("daily", "trending-today.md"),
@@ -119,7 +121,7 @@ def main() -> int:
     parser.add_argument("--force", action="store_true", help="Re-scrape even if today's files already exist")
     args = parser.parse_args()
 
-    date_str = args.date or datetime.date.today().isoformat()
+    date_str = args.date or datetime.datetime.now(LOCAL_TZ).date().isoformat()
     out_dir = OUTPUT_ROOT / date_str
     out_dir.mkdir(parents=True, exist_ok=True)
 
