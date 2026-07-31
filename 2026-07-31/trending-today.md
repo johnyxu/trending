@@ -1,58 +1,50 @@
 # GitHub Trending — today (2026-07-31)
 
-## 1. [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
-> Build local voice agents with open-source models
-**Language:** Python | **Stars:** 8,697 | **Forks:** 1,085 | **627 stars today**
+## 1. [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+> Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+**Language:** PowerShell | **Stars:** 10,004 | **Forks:** 1,551 | **612 stars today**
 
-## 2. [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-> 12 Weeks, 24 Lessons, AI for All!
-**Language:** Jupyter Notebook | **Stars:** 53,835 | **Forks:** 10,940 | **115 stars today**
-
-## 3. [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
-> A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-**Language:** Python | **Stars:** 10,998 | **Forks:** 1,411 | **628 stars today**
-
-## 4. [different-ai/openwork](https://github.com/different-ai/openwork)
+## 2. [different-ai/openwork](https://github.com/different-ai/openwork)
 > The open-source alternative to Claude Cowork (powered by opencode)
-**Language:** TypeScript | **Stars:** 18,675 | **Forks:** 1,904 | **916 stars today**
+**Language:** TypeScript | **Stars:** 19,111 | **Forks:** 1,936 | **915 stars today**
 
-## 5. [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
-> Socket-based TS/JavaScript API for WhatsApp Web
-**Language:** JavaScript | **Stars:** 10,420 | **Forks:** 3,249 | **12 stars today**
-
-## 6. [pascalorg/editor](https://github.com/pascalorg/editor)
-> Create and share 3D architectural projects.
-**Language:** TypeScript | **Stars:** 20,076 | **Forks:** 2,619 | **617 stars today**
-
-## 7. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+## 3. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-**Language:** Python | **Stars:** 55,502 | **Forks:** 4,785 | **377 stars today**
+**Language:** Python | **Stars:** 55,850 | **Forks:** 4,806 | **378 stars today**
 
-## 8. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-> ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-**Language:** C# | **Stars:** 38,283 | **Forks:** 10,859 | **5 stars today**
+## 4. [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
+> A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+**Language:** Python | **Stars:** 11,451 | **Forks:** 1,443 | **621 stars today**
 
-## 9. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-> Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-**Language:** C | **Stars:** 137,089 | **Forks:** 8,364 | **68 stars today**
+## 5. [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+> 12 Weeks, 24 Lessons, AI for All!
+**Language:** Jupyter Notebook | **Stars:** 54,862 | **Forks:** 11,079 | **155 stars today**
 
-## 10. [ansible/ansible](https://github.com/ansible/ansible)
-> Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com .
-**Language:** Python | **Stars:** 69,861 | **Forks:** 24,248 | **20 stars today**
+## 6. [github/copilot-sdk](https://github.com/github/copilot-sdk)
+> Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+**Language:** Java | **Stars:** 10,063 | **Forks:** 1,365 | **7 stars today**
 
-## 11. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-> Chrome DevTools for coding agents
-**Language:** TypeScript | **Stars:** 48,015 | **Forks:** 3,257 | **73 stars today**
+## 7. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+> Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+**Language:** Ruby | **Stars:** 34,952 | **Forks:** 8,423 | **53 stars today**
 
-## 12. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-> Jenkins automation server
-**Language:** Java | **Stars:** 26,280 | **Forks:** 9,718 | **53 stars today**
-
-## 13. [agavra/tuicr](https://github.com/agavra/tuicr)
+## 8. [agavra/tuicr](https://github.com/agavra/tuicr)
 > a code review TUI with vim keybindings
-**Language:** Rust | **Stars:** 1,830 | **Forks:** 157 | **232 stars today**
+**Language:** Rust | **Stars:** 2,017 | **Forks:** 167 | **190 stars today**
 
-## 14. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-> The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-**Language:** JavaScript | **Stars:** 236,183 | **Forks:** 35,925 | **810 stars today**
+## 9. [usekaneo/kaneo](https://github.com/usekaneo/kaneo)
+> 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+**Language:** TypeScript | **Stars:** 4,621 | **Forks:** 423 | **188 stars today**
+
+## 10. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
+> A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+**Language:** C++ | **Stars:** 4,677 | **Forks:** 383 | **152 stars today**
+
+## 11. [deepfakes/faceswap](https://github.com/deepfakes/faceswap)
+> Deepfakes Software For All
+**Language:** Python | **Stars:** 56,748 | **Forks:** 13,461 | **619 stars today**
+
+## 12. [1jehuang/jcode](https://github.com/1jehuang/jcode)
+> The most RAM efficient harness
+**Language:** Rust | **Stars:** 14,372 | **Forks:** 1,588 | **812 stars today**
 
