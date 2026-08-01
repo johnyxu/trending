@@ -3,3 +3,4 @@
 2026-07-31T11:36:50+00:00 | date=2026-07-31 | status=skipped | already generated today; use --force to re-run
 2026-07-31T11:37:01+00:00 | date=2026-07-31 | status=scraped | today=12, week=18, month=21
 2026-08-01T09:29:44+00:00 | date=2026-08-01 | status=scraped | today=12, week=19, month=21
+2026-08-01T23:04:06+00:00 | date=2026-08-02 | status=scraped | today=15, week=18, month=21
