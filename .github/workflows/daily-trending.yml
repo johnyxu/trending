@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -- '*/trending-*.md' logs/run.log
+          git add archives/ projects/ README.md logs/run.log
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
