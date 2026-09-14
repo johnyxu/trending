@@ -7,14 +7,15 @@
 - **Repository:** [cordiverse/cordis](https://github.com/cordiverse/cordis)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-16
-- **Last Seen on Trending:** 2026-09-13
-- **Total Appearances:** 9 (Daily: 3, Weekly: 4, Monthly: 2)
-- **Latest Stars:** 8,411 | **Latest Forks:** 524
+- **Last Seen on Trending:** 2026-09-14
+- **Total Appearances:** 10 (Daily: 3, Weekly: 4, Monthly: 3)
+- **Latest Stars:** 8,448 | **Latest Forks:** 528
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-14 | month | #17 | 7,887 stars this month | 8,448 | 528 |
 | 2026-09-13 | month | #10 | 8,277 stars this month | 8,411 | 524 |
 | 2026-09-12 | month | #4 | 8,277 stars this month | 8,374 | 521 |
 | 2026-08-25 | week | #7 | 2,725 stars this week | 7,402 | 430 |

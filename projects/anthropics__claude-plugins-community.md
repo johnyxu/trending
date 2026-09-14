@@ -7,14 +7,15 @@
 - **Repository:** [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-24
-- **Last Seen on Trending:** 2026-09-13
-- **Total Appearances:** 33 (Daily: 4, Weekly: 11, Monthly: 18)
-- **Latest Stars:** 3,868 | **Latest Forks:** 285
+- **Last Seen on Trending:** 2026-09-14
+- **Total Appearances:** 34 (Daily: 4, Weekly: 11, Monthly: 19)
+- **Latest Stars:** 3,935 | **Latest Forks:** 289
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-14 | month | #3 | 3,635 stars this month | 3,935 | 289 |
 | 2026-09-13 | month | #3 | 3,515 stars this month | 3,868 | 285 |
 | 2026-09-12 | month | #3 | 3,515 stars this month | 3,805 | 284 |
 | 2026-09-11 | month | #5 | 3,460 stars this month | 3,745 | 282 |

@@ -7,14 +7,15 @@
 - **Repository:** [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-09-13
-- **Total Appearances:** 7 (Daily: 1, Weekly: 0, Monthly: 6)
-- **Latest Stars:** 65,390 | **Latest Forks:** 10,735
+- **Last Seen on Trending:** 2026-09-14
+- **Total Appearances:** 8 (Daily: 2, Weekly: 0, Monthly: 6)
+- **Latest Stars:** 66,004 | **Latest Forks:** 10,799
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-14 | today | #7 | 706 stars today | 66,004 | 10,799 |
 | 2026-09-13 | today | #3 | 357 stars today | 65,390 | 10,735 |
 | 2026-08-04 | month | #15 | 14,554 stars this month | 62,160 | 10,192 |
 | 2026-08-03 | month | #11 | 14,616 stars this month | 61,993 | 10,123 |

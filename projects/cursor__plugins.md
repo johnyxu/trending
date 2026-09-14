@@ -7,14 +7,15 @@
 - **Repository:** [cursor/plugins](https://github.com/cursor/plugins)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-15
-- **Last Seen on Trending:** 2026-09-13
-- **Total Appearances:** 30 (Daily: 6, Weekly: 13, Monthly: 11)
-- **Latest Stars:** 7,545 | **Latest Forks:** 660
+- **Last Seen on Trending:** 2026-09-14
+- **Total Appearances:** 31 (Daily: 6, Weekly: 13, Monthly: 12)
+- **Latest Stars:** 7,619 | **Latest Forks:** 673
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-14 | month | #5 | 4,967 stars this month | 7,619 | 673 |
 | 2026-09-13 | month | #4 | 4,892 stars this month | 7,545 | 660 |
 | 2026-09-12 | month | #5 | 4,892 stars this month | 7,462 | 651 |
 | 2026-09-11 | month | #3 | 4,798 stars this month | 7,376 | 643 |
