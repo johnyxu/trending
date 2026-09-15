@@ -7,12 +7,13 @@
 - **Repository:** [ruvnet/RuView](https://github.com/ruvnet/RuView)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-08-11
-- **Last Seen on Trending:** 2026-08-11
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 89,340 | **Latest Forks:** 11,889
+- **Last Seen on Trending:** 2026-09-15
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 93,828 | **Latest Forks:** 12,430
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-15 | today | #12 | 383 stars today | 93,828 | 12,430 |
 | 2026-08-11 | today | #8 | 186 stars today | 89,340 | 11,889 |

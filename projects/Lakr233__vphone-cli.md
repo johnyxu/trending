@@ -7,14 +7,15 @@
 - **Repository:** [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 - **Primary Language:** `Swift`
 - **First Seen on Trending:** 2026-08-31
-- **Last Seen on Trending:** 2026-09-14
-- **Total Appearances:** 12 (Daily: 1, Weekly: 3, Monthly: 8)
-- **Latest Stars:** 11,837 | **Latest Forks:** 1,491
+- **Last Seen on Trending:** 2026-09-15
+- **Total Appearances:** 13 (Daily: 1, Weekly: 3, Monthly: 9)
+- **Latest Stars:** 12,025 | **Latest Forks:** 1,513
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-15 | month | #15 | 4,310 stars this month | 12,025 | 1,513 |
 | 2026-09-14 | month | #14 | 4,221 stars this month | 11,837 | 1,491 |
 | 2026-09-13 | month | #15 | 4,005 stars this month | 11,739 | 1,484 |
 | 2026-09-12 | month | #19 | 4,005 stars this month | 11,625 | 1,471 |

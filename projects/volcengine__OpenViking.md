@@ -7,14 +7,15 @@
 - **Repository:** [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-19
-- **Last Seen on Trending:** 2026-09-14
-- **Total Appearances:** 36 (Daily: 3, Weekly: 9, Monthly: 24)
-- **Latest Stars:** 37,022 | **Latest Forks:** 2,843
+- **Last Seen on Trending:** 2026-09-15
+- **Total Appearances:** 37 (Daily: 3, Weekly: 9, Monthly: 25)
+- **Latest Stars:** 37,241 | **Latest Forks:** 2,865
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-15 | month | #6 | 8,921 stars this month | 37,241 | 2,865 |
 | 2026-09-14 | month | #6 | 8,745 stars this month | 37,022 | 2,843 |
 | 2026-09-13 | month | #7 | 8,596 stars this month | 36,833 | 2,820 |
 | 2026-09-12 | month | #8 | 8,596 stars this month | 36,702 | 2,809 |
