@@ -7,14 +7,16 @@
 - **Repository:** [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-09-15
-- **Total Appearances:** 42 (Daily: 4, Weekly: 16, Monthly: 22)
-- **Latest Stars:** 45,424 | **Latest Forks:** 2,635
+- **Last Seen on Trending:** 2026-09-16
+- **Total Appearances:** 44 (Daily: 4, Weekly: 17, Monthly: 23)
+- **Latest Stars:** 46,240 | **Latest Forks:** 2,687
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-16 | month | #9 | 25,489 stars this month | 46,240 | 2,687 |
+| 2026-09-16 | week | #1 | 17,880 stars this week | 46,240 | 2,687 |
 | 2026-09-15 | month | #10 | 24,963 stars this month | 45,424 | 2,635 |
 | 2026-09-15 | week | #1 | 17,658 stars this week | 45,424 | 2,635 |
 | 2026-09-14 | month | #10 | 24,025 stars this month | 44,298 | 2,543 |

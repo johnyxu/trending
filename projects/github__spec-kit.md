@@ -7,14 +7,15 @@
 - **Repository:** [github/spec-kit](https://github.com/github/spec-kit)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-15
-- **Last Seen on Trending:** 2026-09-15
-- **Total Appearances:** 5 (Daily: 3, Weekly: 2, Monthly: 0)
-- **Latest Stars:** 136,798 | **Latest Forks:** 12,271
+- **Last Seen on Trending:** 2026-09-16
+- **Total Appearances:** 6 (Daily: 3, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 137,048 | **Latest Forks:** 12,277
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-16 | week | #22 | 3,018 stars this week | 137,048 | 12,277 |
 | 2026-09-15 | week | #21 | 2,952 stars this week | 136,798 | 12,271 |
 | 2026-09-14 | week | #22 | 2,642 stars this week | 136,391 | 12,252 |
 | 2026-09-12 | today | #15 | 1,015 stars today | 135,763 | 12,200 |

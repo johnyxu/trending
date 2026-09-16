@@ -7,14 +7,15 @@
 - **Repository:** [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-07-31
-- **Last Seen on Trending:** 2026-09-15
-- **Total Appearances:** 9 (Daily: 1, Weekly: 8, Monthly: 0)
-- **Latest Stars:** 15,772 | **Latest Forks:** 1,629
+- **Last Seen on Trending:** 2026-09-16
+- **Total Appearances:** 10 (Daily: 1, Weekly: 9, Monthly: 0)
+- **Latest Stars:** 15,897 | **Latest Forks:** 1,651
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-16 | week | #20 | 1,141 stars this week | 15,897 | 1,651 |
 | 2026-09-15 | week | #19 | 1,194 stars this week | 15,772 | 1,629 |
 | 2026-09-14 | week | #20 | 1,054 stars this week | 15,579 | 1,609 |
 | 2026-09-13 | week | #19 | 1,071 stars this week | 15,449 | 1,594 |
