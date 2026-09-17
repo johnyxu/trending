@@ -1,20 +1,21 @@
 # [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
 
-> local multi-agent harness
+> A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
 
 ## 📊 Project Metadata
 
 - **Repository:** [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
-- **Primary Language:** `JavaScript`
+- **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-19
-- **Last Seen on Trending:** 2026-08-29
-- **Total Appearances:** 6 (Daily: 3, Weekly: 3, Monthly: 0)
-- **Latest Stars:** 5,232 | **Latest Forks:** 630
+- **Last Seen on Trending:** 2026-09-17
+- **Total Appearances:** 7 (Daily: 3, Weekly: 3, Monthly: 1)
+- **Latest Stars:** 7,430 | **Latest Forks:** 968
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-17 | month | #12 | 6,210 stars this month | 7,430 | 968 |
 | 2026-08-29 | week | #18 | 1,853 stars this week | 5,232 | 630 |
 | 2026-08-28 | week | #12 | 2,017 stars this week | 5,087 | 607 |
 | 2026-08-27 | week | #9 | 2,192 stars this week | 4,861 | 587 |

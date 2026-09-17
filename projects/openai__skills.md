@@ -7,14 +7,15 @@
 - **Repository:** [openai/skills](https://github.com/openai/skills)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-07
-- **Last Seen on Trending:** 2026-09-16
-- **Total Appearances:** 11 (Daily: 3, Weekly: 8, Monthly: 0)
-- **Latest Stars:** 27,278 | **Latest Forks:** 1,823
+- **Last Seen on Trending:** 2026-09-17
+- **Total Appearances:** 12 (Daily: 3, Weekly: 9, Monthly: 0)
+- **Latest Stars:** 27,370 | **Latest Forks:** 1,834
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-17 | week | #19 | 632 stars this week | 27,370 | 1,834 |
 | 2026-09-16 | week | #13 | 985 stars this week | 27,278 | 1,823 |
 | 2026-09-15 | week | #9 | 1,350 stars this week | 27,190 | 1,814 |
 | 2026-09-14 | week | #8 | 1,622 stars this week | 27,093 | 1,809 |
