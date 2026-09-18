@@ -7,14 +7,15 @@
 - **Repository:** [apache/maka](https://github.com/apache/maka)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-22
-- **Last Seen on Trending:** 2026-09-17
-- **Total Appearances:** 37 (Daily: 4, Weekly: 10, Monthly: 23)
-- **Latest Stars:** 5,509 | **Latest Forks:** 509
+- **Last Seen on Trending:** 2026-09-18
+- **Total Appearances:** 38 (Daily: 4, Weekly: 10, Monthly: 24)
+- **Latest Stars:** 5,543 | **Latest Forks:** 514
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-18 | month | #13 | 4,224 stars this month | 5,543 | 514 |
 | 2026-09-17 | month | #15 | 4,197 stars this month | 5,509 | 509 |
 | 2026-09-16 | month | #16 | 4,146 stars this month | 5,466 | 507 |
 | 2026-09-15 | month | #16 | 4,111 stars this month | 5,403 | 500 |

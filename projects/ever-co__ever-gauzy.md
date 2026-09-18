@@ -7,14 +7,15 @@
 - **Repository:** [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-14
-- **Last Seen on Trending:** 2026-09-17
-- **Total Appearances:** 4 (Daily: 4, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 7,303 | **Latest Forks:** 1,086
+- **Last Seen on Trending:** 2026-09-18
+- **Total Appearances:** 5 (Daily: 5, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 7,532 | **Latest Forks:** 1,120
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-18 | today | #17 | 470 stars today | 7,532 | 1,120 |
 | 2026-09-17 | today | #8 | 778 stars today | 7,303 | 1,086 |
 | 2026-09-16 | today | #3 | 634 stars today | 6,625 | 1,025 |
 | 2026-09-15 | today | #16 | 1,130 stars today | 5,971 | 985 |

@@ -7,14 +7,15 @@
 - **Repository:** [modular/modular](https://github.com/modular/modular)
 - **Primary Language:** `Mojo`
 - **First Seen on Trending:** 2026-08-21
-- **Last Seen on Trending:** 2026-09-17
-- **Total Appearances:** 37 (Daily: 3, Weekly: 9, Monthly: 25)
-- **Latest Stars:** 29,784 | **Latest Forks:** 3,173
+- **Last Seen on Trending:** 2026-09-18
+- **Total Appearances:** 38 (Daily: 3, Weekly: 9, Monthly: 26)
+- **Latest Stars:** 29,804 | **Latest Forks:** 3,176
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-18 | month | #17 | 3,082 stars this month | 29,804 | 3,176 |
 | 2026-09-17 | month | #14 | 3,075 stars this month | 29,784 | 3,173 |
 | 2026-09-16 | month | #13 | 3,058 stars this month | 29,769 | 3,173 |
 | 2026-09-15 | month | #13 | 3,049 stars this month | 29,747 | 3,172 |
