@@ -7,14 +7,15 @@
 - **Repository:** [every-app/open-seo](https://github.com/every-app/open-seo)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-09-12
-- **Total Appearances:** 34 (Daily: 3, Weekly: 12, Monthly: 19)
-- **Latest Stars:** 18,431 | **Latest Forks:** 2,327
+- **Last Seen on Trending:** 2026-09-19
+- **Total Appearances:** 35 (Daily: 3, Weekly: 12, Monthly: 20)
+- **Latest Stars:** 19,288 | **Latest Forks:** 2,476
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-19 | month | #22 | 6,804 stars this month | 19,288 | 2,476 |
 | 2026-09-12 | week | #23 | 1,507 stars this week | 18,431 | 2,327 |
 | 2026-09-11 | week | #21 | 1,679 stars this week | 18,279 | 2,313 |
 | 2026-09-10 | week | #17 | 1,788 stars this week | 18,109 | 2,282 |

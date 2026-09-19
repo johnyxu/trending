@@ -7,14 +7,15 @@
 - **Repository:** [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-10
-- **Last Seen on Trending:** 2026-09-18
-- **Total Appearances:** 7 (Daily: 0, Weekly: 7, Monthly: 0)
-- **Latest Stars:** 10,365 | **Latest Forks:** 725
+- **Last Seen on Trending:** 2026-09-19
+- **Total Appearances:** 8 (Daily: 0, Weekly: 8, Monthly: 0)
+- **Latest Stars:** 10,565 | **Latest Forks:** 728
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-19 | week | #20 | 2,189 stars this week | 10,565 | 728 |
 | 2026-09-18 | week | #17 | 2,256 stars this week | 10,365 | 725 |
 | 2026-09-17 | week | #13 | 2,320 stars this week | 10,124 | 709 |
 | 2026-09-16 | week | #19 | 2,160 stars this week | 9,866 | 698 |

@@ -1,20 +1,23 @@
 # [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 
-> Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+> Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 ## 📊 Project Metadata
 
 - **Repository:** [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 - **Primary Language:** `Go`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-09-18
-- **Total Appearances:** 16 (Daily: 5, Weekly: 11, Monthly: 0)
-- **Latest Stars:** 34,671 | **Latest Forks:** 2,466
+- **Last Seen on Trending:** 2026-09-19
+- **Total Appearances:** 19 (Daily: 6, Weekly: 12, Monthly: 1)
+- **Latest Stars:** 36,648 | **Latest Forks:** 2,612
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-19 | month | #13 | 15,865 stars this month | 36,648 | 2,612 |
+| 2026-09-19 | week | #1 | 14,144 stars this week | 36,648 | 2,612 |
+| 2026-09-19 | today | #3 | 2,704 stars today | 36,648 | 2,612 |
 | 2026-09-18 | week | #1 | 11,489 stars this week | 34,671 | 2,466 |
 | 2026-09-18 | today | #1 | 3,286 stars today | 34,671 | 2,466 |
 | 2026-09-17 | week | #3 | 8,594 stars this week | 31,778 | 2,258 |
