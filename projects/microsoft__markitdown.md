@@ -7,14 +7,15 @@
 - **Repository:** [microsoft/markitdown](https://github.com/microsoft/markitdown)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-08
-- **Last Seen on Trending:** 2026-09-19
-- **Total Appearances:** 11 (Daily: 2, Weekly: 9, Monthly: 0)
-- **Latest Stars:** 185,418 | **Latest Forks:** 13,646
+- **Last Seen on Trending:** 2026-09-20
+- **Total Appearances:** 12 (Daily: 2, Weekly: 10, Monthly: 0)
+- **Latest Stars:** 185,653 | **Latest Forks:** 13,673
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-20 | week | #13 | 2,767 stars this week | 185,653 | 13,673 |
 | 2026-09-19 | week | #14 | 2,841 stars this week | 185,418 | 13,646 |
 | 2026-09-18 | week | #14 | 2,814 stars this week | 185,123 | 13,630 |
 | 2026-09-17 | week | #14 | 2,733 stars this week | 184,813 | 13,619 |

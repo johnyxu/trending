@@ -7,14 +7,15 @@
 - **Repository:** [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-16
-- **Last Seen on Trending:** 2026-09-19
-- **Total Appearances:** 4 (Daily: 1, Weekly: 3, Monthly: 0)
-- **Latest Stars:** 44,331 | **Latest Forks:** 9,110
+- **Last Seen on Trending:** 2026-09-20
+- **Total Appearances:** 5 (Daily: 1, Weekly: 4, Monthly: 0)
+- **Latest Stars:** 44,402 | **Latest Forks:** 9,120
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-20 | week | #19 | 1,573 stars this week | 44,402 | 9,120 |
 | 2026-09-19 | week | #21 | 1,528 stars this week | 44,331 | 9,110 |
 | 2026-09-18 | week | #18 | 1,421 stars this week | 44,235 | 9,092 |
 | 2026-09-17 | week | #18 | 1,173 stars this week | 44,201 | 9,063 |

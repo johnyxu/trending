@@ -1,20 +1,21 @@
 # [cactus-compute/needle](https://github.com/cactus-compute/needle)
 
-> 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+> Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 
 ## 📊 Project Metadata
 
 - **Repository:** [cactus-compute/needle](https://github.com/cactus-compute/needle)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-13
-- **Last Seen on Trending:** 2026-09-12
-- **Total Appearances:** 38 (Daily: 5, Weekly: 8, Monthly: 25)
-- **Latest Stars:** 10,846 | **Latest Forks:** 694
+- **Last Seen on Trending:** 2026-09-20
+- **Total Appearances:** 39 (Daily: 6, Weekly: 8, Monthly: 25)
+- **Latest Stars:** 11,597 | **Latest Forks:** 741
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-20 | today | #14 | 234 stars today | 11,597 | 741 |
 | 2026-09-12 | month | #23 | 7,243 stars this month | 10,846 | 694 |
 | 2026-09-11 | month | #20 | 7,395 stars this month | 10,765 | 687 |
 | 2026-09-10 | month | #14 | 7,313 stars this month | 10,684 | 682 |

@@ -7,14 +7,15 @@
 - **Repository:** [blader/humanizer](https://github.com/blader/humanizer)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-03
-- **Last Seen on Trending:** 2026-09-19
-- **Total Appearances:** 16 (Daily: 5, Weekly: 11, Monthly: 0)
-- **Latest Stars:** 49,935 | **Latest Forks:** 4,031
+- **Last Seen on Trending:** 2026-09-20
+- **Total Appearances:** 17 (Daily: 5, Weekly: 12, Monthly: 0)
+- **Latest Stars:** 50,243 | **Latest Forks:** 4,055
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-20 | week | #11 | 3,024 stars this week | 50,243 | 4,055 |
 | 2026-09-19 | week | #12 | 3,118 stars this week | 49,935 | 4,031 |
 | 2026-09-18 | week | #13 | 3,235 stars this week | 49,574 | 4,016 |
 | 2026-09-17 | week | #11 | 3,266 stars this week | 49,178 | 3,988 |

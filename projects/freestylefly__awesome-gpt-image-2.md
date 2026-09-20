@@ -7,14 +7,15 @@
 - **Repository:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-08-24
-- **Last Seen on Trending:** 2026-09-19
-- **Total Appearances:** 42 (Daily: 8, Weekly: 10, Monthly: 24)
-- **Latest Stars:** 32,683 | **Latest Forks:** 3,155
+- **Last Seen on Trending:** 2026-09-20
+- **Total Appearances:** 43 (Daily: 8, Weekly: 10, Monthly: 25)
+- **Latest Stars:** 32,813 | **Latest Forks:** 3,167
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-20 | month | #5 | 21,920 stars this month | 32,813 | 3,167 |
 | 2026-09-19 | month | #6 | 21,890 stars this month | 32,683 | 3,155 |
 | 2026-09-18 | month | #7 | 21,929 stars this month | 32,478 | 3,134 |
 | 2026-09-17 | month | #7 | 22,206 stars this month | 32,256 | 3,105 |

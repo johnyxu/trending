@@ -7,14 +7,15 @@
 - **Repository:** [openai/plugins](https://github.com/openai/plugins)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-09-09
-- **Last Seen on Trending:** 2026-09-19
-- **Total Appearances:** 12 (Daily: 2, Weekly: 10, Monthly: 0)
-- **Latest Stars:** 6,972 | **Latest Forks:** 902
+- **Last Seen on Trending:** 2026-09-20
+- **Total Appearances:** 13 (Daily: 2, Weekly: 11, Monthly: 0)
+- **Latest Stars:** 7,031 | **Latest Forks:** 910
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-20 | week | #18 | 522 stars this week | 7,031 | 910 |
 | 2026-09-19 | week | #11 | 542 stars this week | 6,972 | 902 |
 | 2026-09-18 | week | #7 | 564 stars this week | 6,911 | 900 |
 | 2026-09-17 | week | #5 | 771 stars this week | 6,856 | 895 |

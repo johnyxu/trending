@@ -7,14 +7,15 @@
 - **Repository:** [stablyai/orca](https://github.com/stablyai/orca)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-09-19
-- **Total Appearances:** 26 (Daily: 2, Weekly: 2, Monthly: 22)
-- **Latest Stars:** 71,935 | **Latest Forks:** 4,701
+- **Last Seen on Trending:** 2026-09-20
+- **Total Appearances:** 27 (Daily: 2, Weekly: 3, Monthly: 22)
+- **Latest Stars:** 72,608 | **Latest Forks:** 4,751
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-20 | week | #17 | 5,404 stars this week | 72,608 | 4,751 |
 | 2026-09-19 | week | #16 | 5,272 stars this week | 71,935 | 4,701 |
 | 2026-09-18 | week | #19 | 5,305 stars this week | 71,125 | 4,652 |
 | 2026-08-20 | month | #15 | 26,771 stars this month | 49,058 | 3,387 |
