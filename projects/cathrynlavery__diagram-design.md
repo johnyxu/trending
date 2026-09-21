@@ -7,14 +7,15 @@
 - **Repository:** [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 - **Primary Language:** `HTML`
 - **First Seen on Trending:** 2026-08-13
-- **Last Seen on Trending:** 2026-09-20
-- **Total Appearances:** 39 (Daily: 10, Weekly: 13, Monthly: 16)
-- **Latest Stars:** 41,341 | **Latest Forks:** 2,646
+- **Last Seen on Trending:** 2026-09-21
+- **Total Appearances:** 40 (Daily: 10, Weekly: 13, Monthly: 17)
+- **Latest Stars:** 41,568 | **Latest Forks:** 2,666
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-21 | month | #16 | 17,716 stars this month | 41,568 | 2,666 |
 | 2026-09-20 | month | #14 | 18,899 stars this month | 41,341 | 2,646 |
 | 2026-09-19 | month | #11 | 19,891 stars this month | 41,145 | 2,632 |
 | 2026-09-18 | month | #11 | 20,738 stars this month | 40,792 | 2,603 |

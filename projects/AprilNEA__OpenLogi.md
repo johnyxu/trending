@@ -7,14 +7,15 @@
 - **Repository:** [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-08-21
-- **Last Seen on Trending:** 2026-09-20
-- **Total Appearances:** 44 (Daily: 5, Weekly: 13, Monthly: 26)
-- **Latest Stars:** 21,645 | **Latest Forks:** 701
+- **Last Seen on Trending:** 2026-09-21
+- **Total Appearances:** 45 (Daily: 5, Weekly: 13, Monthly: 27)
+- **Latest Stars:** 21,747 | **Latest Forks:** 709
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-21 | month | #13 | 10,567 stars this month | 21,747 | 709 |
 | 2026-09-20 | month | #8 | 12,141 stars this month | 21,645 | 701 |
 | 2026-09-19 | month | #7 | 12,953 stars this month | 21,554 | 697 |
 | 2026-09-18 | month | #5 | 12,913 stars this month | 21,452 | 694 |

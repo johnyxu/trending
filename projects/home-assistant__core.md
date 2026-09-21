@@ -7,14 +7,15 @@
 - **Repository:** [home-assistant/core](https://github.com/home-assistant/core)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-17
-- **Last Seen on Trending:** 2026-09-20
-- **Total Appearances:** 4 (Daily: 0, Weekly: 4, Monthly: 0)
-- **Latest Stars:** 90,819 | **Latest Forks:** 38,709
+- **Last Seen on Trending:** 2026-09-21
+- **Total Appearances:** 5 (Daily: 0, Weekly: 5, Monthly: 0)
+- **Latest Stars:** 90,891 | **Latest Forks:** 38,714
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-21 | week | #10 | 480 stars this week | 90,891 | 38,714 |
 | 2026-09-20 | week | #12 | 417 stars this week | 90,819 | 38,709 |
 | 2026-09-19 | week | #15 | 357 stars this week | 90,736 | 38,700 |
 | 2026-09-18 | week | #15 | 285 stars this week | 90,665 | 38,689 |

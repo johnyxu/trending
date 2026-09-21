@@ -7,14 +7,15 @@
 - **Repository:** [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-14
-- **Last Seen on Trending:** 2026-09-20
-- **Total Appearances:** 6 (Daily: 2, Weekly: 0, Monthly: 4)
-- **Latest Stars:** 6,464 | **Latest Forks:** 537
+- **Last Seen on Trending:** 2026-09-21
+- **Total Appearances:** 7 (Daily: 2, Weekly: 0, Monthly: 5)
+- **Latest Stars:** 6,546 | **Latest Forks:** 537
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-21 | month | #14 | 1,604 stars this month | 6,546 | 537 |
 | 2026-09-20 | month | #19 | 1,527 stars this month | 6,464 | 537 |
 | 2026-09-19 | month | #19 | 1,471 stars this month | 6,399 | 535 |
 | 2026-09-18 | month | #19 | 1,398 stars this month | 6,339 | 530 |

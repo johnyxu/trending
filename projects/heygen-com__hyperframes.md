@@ -7,14 +7,15 @@
 - **Repository:** [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-08
-- **Last Seen on Trending:** 2026-09-20
-- **Total Appearances:** 13 (Daily: 2, Weekly: 11, Monthly: 0)
-- **Latest Stars:** 51,649 | **Latest Forks:** 4,706
+- **Last Seen on Trending:** 2026-09-21
+- **Total Appearances:** 14 (Daily: 2, Weekly: 12, Monthly: 0)
+- **Latest Stars:** 51,953 | **Latest Forks:** 4,731
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-21 | week | #14 | 2,546 stars this week | 51,953 | 4,731 |
 | 2026-09-20 | week | #16 | 2,498 stars this week | 51,649 | 4,706 |
 | 2026-09-19 | week | #17 | 2,401 stars this week | 51,378 | 4,679 |
 | 2026-09-17 | week | #21 | 2,413 stars this week | 50,718 | 4,626 |
