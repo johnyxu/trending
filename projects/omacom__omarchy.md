@@ -7,14 +7,15 @@
 - **Repository:** [omacom/omarchy](https://github.com/omacom/omarchy)
 - **Primary Language:** `Shell`
 - **First Seen on Trending:** 2026-08-30
-- **Last Seen on Trending:** 2026-09-21
-- **Total Appearances:** 29 (Daily: 0, Weekly: 6, Monthly: 23)
-- **Latest Stars:** 42,364 | **Latest Forks:** 4,880
+- **Last Seen on Trending:** 2026-09-22
+- **Total Appearances:** 30 (Daily: 0, Weekly: 6, Monthly: 24)
+- **Latest Stars:** 42,546 | **Latest Forks:** 4,918
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-22 | month | #9 | 15,721 stars this month | 42,546 | 4,918 |
 | 2026-09-21 | month | #4 | 15,720 stars this month | 42,364 | 4,880 |
 | 2026-09-20 | month | #2 | 15,717 stars this month | 42,120 | 4,842 |
 | 2026-09-19 | month | #2 | 15,994 stars this month | 41,928 | 4,793 |

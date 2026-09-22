@@ -7,14 +7,15 @@
 - **Repository:** [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 - **Primary Language:** `Swift`
 - **First Seen on Trending:** 2026-09-05
-- **Last Seen on Trending:** 2026-09-21
-- **Total Appearances:** 17 (Daily: 0, Weekly: 0, Monthly: 17)
-- **Latest Stars:** 20,243 | **Latest Forks:** 739
+- **Last Seen on Trending:** 2026-09-22
+- **Total Appearances:** 18 (Daily: 0, Weekly: 0, Monthly: 18)
+- **Latest Stars:** 20,414 | **Latest Forks:** 747
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-22 | month | #15 | 14,671 stars this month | 20,414 | 747 |
 | 2026-09-21 | month | #9 | 14,605 stars this month | 20,243 | 739 |
 | 2026-09-20 | month | #9 | 14,438 stars this month | 20,016 | 730 |
 | 2026-09-19 | month | #10 | 14,343 stars this month | 19,812 | 724 |

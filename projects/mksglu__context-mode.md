@@ -7,14 +7,15 @@
 - **Repository:** [mksglu/context-mode](https://github.com/mksglu/context-mode)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-08
-- **Last Seen on Trending:** 2026-09-21
-- **Total Appearances:** 15 (Daily: 2, Weekly: 13, Monthly: 0)
-- **Latest Stars:** 23,772 | **Latest Forks:** 1,715
+- **Last Seen on Trending:** 2026-09-22
+- **Total Appearances:** 16 (Daily: 2, Weekly: 14, Monthly: 0)
+- **Latest Stars:** 23,886 | **Latest Forks:** 1,722
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-22 | week | #9 | 1,089 stars this week | 23,886 | 1,722 |
 | 2026-09-21 | week | #8 | 1,242 stars this week | 23,772 | 1,715 |
 | 2026-09-20 | week | #9 | 1,359 stars this week | 23,662 | 1,707 |
 | 2026-09-19 | week | #7 | 1,398 stars this week | 23,541 | 1,695 |
