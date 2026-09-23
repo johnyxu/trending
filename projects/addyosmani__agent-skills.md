@@ -7,14 +7,15 @@
 - **Repository:** [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-08-06
-- **Last Seen on Trending:** 2026-09-22
-- **Total Appearances:** 27 (Daily: 15, Weekly: 12, Monthly: 0)
-- **Latest Stars:** 98,137 | **Latest Forks:** 10,318
+- **Last Seen on Trending:** 2026-09-23
+- **Total Appearances:** 28 (Daily: 15, Weekly: 13, Monthly: 0)
+- **Latest Stars:** 98,452 | **Latest Forks:** 10,342
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-23 | week | #6 | 4,224 stars this week | 98,452 | 10,342 |
 | 2026-09-22 | week | #7 | 4,197 stars this week | 98,137 | 10,318 |
 | 2026-09-21 | week | #5 | 3,986 stars this week | 97,670 | 10,294 |
 | 2026-09-21 | today | #13 | 736 stars today | 97,670 | 10,294 |

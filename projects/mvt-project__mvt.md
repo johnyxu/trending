@@ -7,12 +7,13 @@
 - **Repository:** [mvt-project/mvt](https://github.com/mvt-project/mvt)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-22
-- **Last Seen on Trending:** 2026-09-22
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 13,588 | **Latest Forks:** 1,323
+- **Last Seen on Trending:** 2026-09-23
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 14,097 | **Latest Forks:** 1,358
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-23 | today | #6 | 441 stars today | 14,097 | 1,358 |
 | 2026-09-22 | today | #8 | 169 stars today | 13,588 | 1,323 |

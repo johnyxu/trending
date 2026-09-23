@@ -7,14 +7,16 @@
 - **Repository:** [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-18
-- **Last Seen on Trending:** 2026-09-22
-- **Total Appearances:** 4 (Daily: 2, Weekly: 0, Monthly: 2)
-- **Latest Stars:** 6,342 | **Latest Forks:** 462
+- **Last Seen on Trending:** 2026-09-23
+- **Total Appearances:** 6 (Daily: 2, Weekly: 1, Monthly: 3)
+- **Latest Stars:** 6,629 | **Latest Forks:** 488
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-23 | month | #19 | 5,343 stars this month | 6,629 | 488 |
+| 2026-09-23 | week | #21 | 4,553 stars this week | 6,629 | 488 |
 | 2026-09-22 | month | #19 | 5,066 stars this month | 6,342 | 462 |
 | 2026-09-21 | month | #19 | 4,797 stars this month | 6,038 | 431 |
 | 2026-09-19 | today | #5 | 1,306 stars today | 5,284 | 366 |

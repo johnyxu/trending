@@ -4,9 +4,9 @@ Automated daily tracker, aggregator, and curated index for [GitHub Trending](htt
 
 ## 📊 Overview Statistics
 
-- **Unique Projects Tracked:** `384`
-- **Total Trending Snapshots:** `3048`
-- **Tracking Range:** `2026-07-30` ~ `2026-09-22`
+- **Unique Projects Tracked:** `389`
+- **Total Trending Snapshots:** `3099`
+- **Tracking Range:** `2026-07-30` ~ `2026-09-23`
 - **Archives Directory:** [`archives/`](archives/)
 - **Project Profiles Directory:** [`projects/`](projects/)
 
@@ -18,74 +18,74 @@ Repositories with the highest number of appearances on GitHub Trending across da
 
 | Rank | Repository | Language | Total Appearances | Latest Stars | Description |
 | :---: | :--- | :--- | :---: | :---: | :--- |
-| 1 | [tt-a1i/archify](projects/tt-a1i__archify.md) | `JavaScript` | **63** | 69,119 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-... |
-| 2 | [ayghri/i-have-adhd](projects/ayghri__i-have-adhd.md) | `Python` | **55** | 49,829 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 1 | [tt-a1i/archify](projects/tt-a1i__archify.md) | `JavaScript` | **64** | 69,898 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-... |
+| 2 | [ayghri/i-have-adhd](projects/ayghri__i-have-adhd.md) | `Python` | **56** | 50,317 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 | 3 | [TencentCloud/TencentDB-Agent-Memory](projects/TencentCloud__TencentDB-Agent-Memory.md) | `TypeScript` | **47** | 25,846 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning con... |
-| 4 | [AprilNEA/OpenLogi](projects/AprilNEA__OpenLogi.md) | `Rust` | **46** | 21,868 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 —... |
-| 5 | [zhaoxuya520/reverse-skill](projects/zhaoxuya520__reverse-skill.md) | `PowerShell` | **45** | 33,753 | Reverse Engineering / Authorized Penetration Testing / Security Research Skil... |
-| 6 | [freestylefly/awesome-gpt-image-2](projects/freestylefly__awesome-gpt-image-2.md) | `JavaScript` | **45** | 33,159 | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增... |
-| 7 | [THU-MAIC/OpenMAIC](projects/THU-MAIC__OpenMAIC.md) | `TypeScript` | **43** | 38,436 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learni... |
-| 8 | [anthropics/claude-plugins-community](projects/anthropics__claude-plugins-community.md) | `Python` | **42** | 4,352 | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mir... |
+| 4 | [freestylefly/awesome-gpt-image-2](projects/freestylefly__awesome-gpt-image-2.md) | `JavaScript` | **46** | 33,279 | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增... |
+| 5 | [AprilNEA/OpenLogi](projects/AprilNEA__OpenLogi.md) | `Rust` | **46** | 21,868 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 —... |
+| 6 | [zhaoxuya520/reverse-skill](projects/zhaoxuya520__reverse-skill.md) | `PowerShell` | **45** | 33,753 | Reverse Engineering / Authorized Penetration Testing / Security Research Skil... |
+| 7 | [THU-MAIC/OpenMAIC](projects/THU-MAIC__OpenMAIC.md) | `TypeScript` | **44** | 38,604 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learni... |
+| 8 | [anthropics/claude-plugins-community](projects/anthropics__claude-plugins-community.md) | `Python` | **43** | 4,389 | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mir... |
 | 9 | [virgiliojr94/book-to-skill](projects/virgiliojr94__book-to-skill.md) | `Python` | **41** | 27,583 | Turn any technical book PDF into a Claude Code skill — ready to study, refere... |
 | 10 | [mattpocock/skills](projects/mattpocock__skills.md) | `Shell` | **40** | 260,474 | Skills for Real Engineers. Straight from my .agents directory. |
 | 11 | [diegosouzapw/OmniRoute](projects/diegosouzapw__OmniRoute.md) | `TypeScript` | **40** | 64,224 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ fre... |
 | 12 | [cathrynlavery/diagram-design](projects/cathrynlavery__diagram-design.md) | `HTML` | **40** | 41,568 | Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML ... |
 | 13 | [pingdotgg/t3code](projects/pingdotgg__t3code.md) | `TypeScript` | **40** | 21,489 |  |
-| 14 | [volcengine/OpenViking](projects/volcengine__OpenViking.md) | `Python` | **39** | 37,770 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge R... |
-| 15 | [cactus-compute/needle](projects/cactus-compute__needle.md) | `Python` | **39** | 11,597 | Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, str... |
-| 16 | [cursor/plugins](projects/cursor__plugins.md) | `TypeScript` | **39** | 8,307 | Cursor plugin specification and official plugins |
-| 17 | [apache/maka](projects/apache__maka.md) | `TypeScript` | **39** | 5,576 | Apache Maka (Incubating) is a high-performance agent workspace that keeps a c... |
-| 18 | [modular/modular](projects/modular__modular.md) | `Mojo` | **38** | 29,804 | The Modular Platform (includes MAX & Mojo) |
-| 19 | [every-app/open-seo](projects/every-app__open-seo.md) | `TypeScript` | **38** | 19,881 | Open source alternative to Semrush and Ahrefs |
-| 20 | [affaan-m/ECC](projects/affaan-m__ECC.md) | `JavaScript` | **35** | 264,754 | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 14 | [cursor/plugins](projects/cursor__plugins.md) | `TypeScript` | **40** | 8,415 | Cursor plugin specification and official plugins |
+| 15 | [volcengine/OpenViking](projects/volcengine__OpenViking.md) | `Python` | **39** | 37,770 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge R... |
+| 16 | [every-app/open-seo](projects/every-app__open-seo.md) | `TypeScript` | **39** | 20,044 | Open source alternative to Semrush and Ahrefs |
+| 17 | [cactus-compute/needle](projects/cactus-compute__needle.md) | `Python` | **39** | 11,597 | Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, str... |
+| 18 | [apache/maka](projects/apache__maka.md) | `TypeScript` | **39** | 5,576 | Apache Maka (Incubating) is a high-performance agent workspace that keeps a c... |
+| 19 | [modular/modular](projects/modular__modular.md) | `Mojo` | **38** | 29,804 | The Modular Platform (includes MAX & Mojo) |
+| 20 | [affaan-m/ECC](projects/affaan-m__ECC.md) | `JavaScript` | **36** | 265,431 | The agent harness performance optimization system. Skills, instincts, memory,... |
 | 21 | [1jehuang/jcode](projects/1jehuang__jcode.md) | `Rust` | **35** | 18,561 | The most RAM efficient harness |
 | 22 | [microsoft/AI-For-Beginners](projects/microsoft__AI-For-Beginners.md) | `Jupyter Notebook` | **32** | 67,558 | 12 Weeks, 24 Lessons, AI for All! |
-| 23 | [omacom/omarchy](projects/omacom__omarchy.md) | `Shell` | **30** | 42,546 | Beautiful, Modern & Opinionated Linux |
-| 24 | [basecamp/omarchy](projects/basecamp__omarchy.md) | `Shell` | **30** | 33,662 | Beautiful, Modern & Opinionated Linux |
-| 25 | [megadose/holehe](projects/megadose__holehe.md) | `Python` | **30** | 14,836 | holehe allows you to check if the mail is used on different sites like twitte... |
-| 26 | [semantica-agi/semantica](projects/semantica-agi__semantica.md) | `Python` | **30** | 12,758 | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| 27 | [stablyai/orca](projects/stablyai__orca.md) | `TypeScript` | **29** | 74,687 | Orca is the ADE for working with a fleet of parallel agents. Run any coding a... |
-| 28 | [debpalash/VoiceStudio](projects/debpalash__VoiceStudio.md) | `Python` | **28** | 33,914 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
-| 29 | [earendil-works/pi](projects/earendil-works__pi.md) | `TypeScript` | **27** | 105,691 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| 30 | [addyosmani/agent-skills](projects/addyosmani__agent-skills.md) | `JavaScript` | **27** | 98,137 | Production-grade engineering skills for AI coding agents. |
+| 23 | [omacom/omarchy](projects/omacom__omarchy.md) | `Shell` | **31** | 42,697 | Beautiful, Modern & Opinionated Linux |
+| 24 | [stablyai/orca](projects/stablyai__orca.md) | `TypeScript` | **30** | 75,616 | Orca is the ADE for working with a fleet of parallel agents. Run any coding a... |
+| 25 | [basecamp/omarchy](projects/basecamp__omarchy.md) | `Shell` | **30** | 33,662 | Beautiful, Modern & Opinionated Linux |
+| 26 | [megadose/holehe](projects/megadose__holehe.md) | `Python` | **30** | 14,836 | holehe allows you to check if the mail is used on different sites like twitte... |
+| 27 | [semantica-agi/semantica](projects/semantica-agi__semantica.md) | `Python` | **30** | 12,758 | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| 28 | [debpalash/VoiceStudio](projects/debpalash__VoiceStudio.md) | `Python` | **29** | 34,410 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
+| 29 | [addyosmani/agent-skills](projects/addyosmani__agent-skills.md) | `JavaScript` | **28** | 98,452 | Production-grade engineering skills for AI coding agents. |
+| 30 | [earendil-works/pi](projects/earendil-works__pi.md) | `TypeScript` | **27** | 105,691 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 
 ---
 
 ## 🗂 Browse by Programming Language
 
-[Python (122)](#python) | [TypeScript (90)](#typescript) | [Rust (33)](#rust) | [JavaScript (31)](#javascript) | [Go (20)](#go) | [Not Specified (12)](#not-specified) | [Shell (8)](#shell) | [C (8)](#c) | [Swift (8)](#swift) | [C++ (7)](#cpp) | [Java (6)](#java) | [HTML (6)](#html) | [Jupyter Notebook (5)](#jupyter-notebook) | [Kotlin (4)](#kotlin) | [C# (4)](#csharp)
+[Python (125)](#python) | [TypeScript (91)](#typescript) | [Rust (33)](#rust) | [JavaScript (31)](#javascript) | [Go (21)](#go) | [Not Specified (12)](#not-specified) | [Shell (8)](#shell) | [C (8)](#c) | [Swift (8)](#swift) | [C++ (7)](#cpp) | [Java (6)](#java) | [HTML (6)](#html) | [Jupyter Notebook (5)](#jupyter-notebook) | [Kotlin (4)](#kotlin) | [C# (4)](#csharp)
 
 ### Python
 
 | Repository | Appearances | Latest Stars | Description |
 | :--- | :---: | :---: | :--- |
-| [ayghri/i-have-adhd](projects/ayghri__i-have-adhd.md) | **55** | 49,829 | A skill to stop your coding agent from burying the answer. ADHD-friendly... |
-| [anthropics/claude-plugins-community](projects/anthropics__claude-plugins-community.md) | **42** | 4,352 | Community plugin marketplace for Claude Cowork and Claude Code. Read-onl... |
+| [ayghri/i-have-adhd](projects/ayghri__i-have-adhd.md) | **56** | 50,317 | A skill to stop your coding agent from burying the answer. ADHD-friendly... |
+| [anthropics/claude-plugins-community](projects/anthropics__claude-plugins-community.md) | **43** | 4,389 | Community plugin marketplace for Claude Cowork and Claude Code. Read-onl... |
 | [virgiliojr94/book-to-skill](projects/virgiliojr94__book-to-skill.md) | **41** | 27,583 | Turn any technical book PDF into a Claude Code skill — ready to study, r... |
 | [volcengine/OpenViking](projects/volcengine__OpenViking.md) | **39** | 37,770 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowle... |
 | [cactus-compute/needle](projects/cactus-compute__needle.md) | **39** | 11,597 | Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls... |
 | [megadose/holehe](projects/megadose__holehe.md) | **30** | 14,836 | holehe allows you to check if the mail is used on different sites like t... |
 | [semantica-agi/semantica](projects/semantica-agi__semantica.md) | **30** | 12,758 | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [debpalash/VoiceStudio](projects/debpalash__VoiceStudio.md) | **28** | 33,914 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi... |
+| [debpalash/VoiceStudio](projects/debpalash__VoiceStudio.md) | **29** | 34,410 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi... |
 | [public-apis/public-apis](projects/public-apis__public-apis.md) | **25** | 480,189 | A collective list of free APIs |
 | [HKUDS/DeepTutor](projects/HKUDS__DeepTutor.md) | **23** | 36,647 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ . |
-_...and 112 more `Python` repositories in [`projects/`](projects/)._
+_...and 115 more `Python` repositories in [`projects/`](projects/)._
 
 ### TypeScript
 
 | Repository | Appearances | Latest Stars | Description |
 | :--- | :---: | :---: | :--- |
 | [TencentCloud/TencentDB-Agent-Memory](projects/TencentCloud__TencentDB-Agent-Memory.md) | **47** | 25,846 | TencentDB Agent Memory is a team-level memory hub for AI Agents — turnin... |
-| [THU-MAIC/OpenMAIC](projects/THU-MAIC__OpenMAIC.md) | **43** | 38,436 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l... |
+| [THU-MAIC/OpenMAIC](projects/THU-MAIC__OpenMAIC.md) | **44** | 38,604 | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l... |
 | [diegosouzapw/OmniRoute](projects/diegosouzapw__OmniRoute.md) | **40** | 64,224 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150... |
 | [pingdotgg/t3code](projects/pingdotgg__t3code.md) | **40** | 21,489 |  |
-| [cursor/plugins](projects/cursor__plugins.md) | **39** | 8,307 | Cursor plugin specification and official plugins |
+| [cursor/plugins](projects/cursor__plugins.md) | **40** | 8,415 | Cursor plugin specification and official plugins |
+| [every-app/open-seo](projects/every-app__open-seo.md) | **39** | 20,044 | Open source alternative to Semrush and Ahrefs |
 | [apache/maka](projects/apache__maka.md) | **39** | 5,576 | Apache Maka (Incubating) is a high-performance agent workspace that keep... |
-| [every-app/open-seo](projects/every-app__open-seo.md) | **38** | 19,881 | Open source alternative to Semrush and Ahrefs |
-| [stablyai/orca](projects/stablyai__orca.md) | **29** | 74,687 | Orca is the ADE for working with a fleet of parallel agents. Run any cod... |
+| [stablyai/orca](projects/stablyai__orca.md) | **30** | 75,616 | Orca is the ADE for working with a fleet of parallel agents. Run any cod... |
 | [earendil-works/pi](projects/earendil-works__pi.md) | **27** | 105,691 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 | [koala73/worldmonitor](projects/koala73__worldmonitor.md) | **26** | 83,475 | Real-time global intelligence dashboard. AI-powered news aggregation, ge... |
-_...and 80 more `TypeScript` repositories in [`projects/`](projects/)._
+_...and 81 more `TypeScript` repositories in [`projects/`](projects/)._
 
 ### Rust
 
@@ -107,33 +107,33 @@ _...and 23 more `Rust` repositories in [`projects/`](projects/)._
 
 | Repository | Appearances | Latest Stars | Description |
 | :--- | :---: | :---: | :--- |
-| [tt-a1i/archify](projects/tt-a1i__archify.md) | **63** | 69,119 | Agent skill for beautiful, verifiable architecture, workflow, sequence, ... |
-| [freestylefly/awesome-gpt-image-2](projects/freestylefly__awesome-gpt-image-2.md) | **45** | 33,159 | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skil... |
-| [affaan-m/ECC](projects/affaan-m__ECC.md) | **35** | 264,754 | The agent harness performance optimization system. Skills, instincts, me... |
-| [addyosmani/agent-skills](projects/addyosmani__agent-skills.md) | **27** | 98,137 | Production-grade engineering skills for AI coding agents. |
+| [tt-a1i/archify](projects/tt-a1i__archify.md) | **64** | 69,898 | Agent skill for beautiful, verifiable architecture, workflow, sequence, ... |
+| [freestylefly/awesome-gpt-image-2](projects/freestylefly__awesome-gpt-image-2.md) | **46** | 33,279 | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skil... |
+| [affaan-m/ECC](projects/affaan-m__ECC.md) | **36** | 265,431 | The agent harness performance optimization system. Skills, instincts, me... |
+| [addyosmani/agent-skills](projects/addyosmani__agent-skills.md) | **28** | 98,452 | Production-grade engineering skills for AI coding agents. |
 | [bilawalsidhu/gods-eye-view](projects/bilawalsidhu__gods-eye-view.md) | **24** | 40,593 | A spy satellite simulator in your browser, except the data is real. Live... |
 | [DietrichGebert/ponytail](projects/DietrichGebert__ponytail.md) | **20** | 140,341 | Makes your AI agent think like the laziest senior dev in the room. The b... |
 | [citrolabs/ego-lite](projects/citrolabs__ego-lite.md) | **19** | 14,197 | The fastest browser for AI agents to run browser automation, built for s... |
 | [openai/plugins](projects/openai__plugins.md) | **13** | 7,031 | OpenAI Plugins |
+| [cloudflare/security-audit-skill](projects/cloudflare__security-audit-skill.md) | **12** | 20,174 | A coding-agent skill for multi-phase security audits with independently ... |
 | [coreyhaines31/marketingskills](projects/coreyhaines31__marketingskills.md) | **10** | 50,245 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a... |
-| [cloudflare/security-audit-skill](projects/cloudflare__security-audit-skill.md) | **10** | 18,987 | A coding-agent skill for multi-phase security audits with independently ... |
 _...and 21 more `JavaScript` repositories in [`projects/`](projects/)._
 
 ### Go
 
 | Repository | Appearances | Latest Stars | Description |
 | :--- | :---: | :---: | :--- |
-| [alibaba/open-code-review](projects/alibaba__open-code-review.md) | **25** | 39,202 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit... |
-| [Tencent/WeKnora](projects/Tencent__WeKnora.md) | **17** | 28,502 | Open-source LLM knowledge platform: turn raw documents into a queryable ... |
+| [alibaba/open-code-review](projects/alibaba__open-code-review.md) | **27** | 39,717 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit... |
+| [Tencent/WeKnora](projects/Tencent__WeKnora.md) | **19** | 28,940 | Open-source LLM knowledge platform: turn raw documents into a queryable ... |
 | [esengine/DeepSeek-Reasonix](projects/esengine__DeepSeek-Reasonix.md) | **14** | 34,462 | DeepSeek-native AI coding agent for your terminal. Engineered around pre... |
 | [majd/ipatool](projects/majd__ipatool.md) | **6** | 10,961 | Command-line tool that allows searching and downloading app packages (kn... |
 | [coder/coder](projects/coder__coder.md) | **5** | 16,422 | Secure environments for developers and their agents |
 | [tailscale/tailcat](projects/tailscale__tailcat.md) | **5** | 6,714 | like netcat, but over Tailscale's data plane, without Tailscale's contro... |
 | [JuliusBrussee/caveman](projects/JuliusBrussee__caveman.md) | **4** | 103,563 | 🪨 why use many token when few token do trick — Claude Code skill that cu... |
+| [cilium/cilium](projects/cilium__cilium.md) | **4** | 25,459 | eBPF-based Networking, Security, and Observability |
 | [asciimoo/hister](projects/asciimoo__hister.md) | **4** | 5,223 | Your own search engine |
 | [JetBrains/go-modern-guidelines](projects/JetBrains__go-modern-guidelines.md) | **4** | 3,106 | Help AI coding agents write modern Go |
-| [infiniflow/ragflow](projects/infiniflow__ragflow.md) | **3** | 88,384 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) en... |
-_...and 10 more `Go` repositories in [`projects/`](projects/)._
+_...and 11 more `Go` repositories in [`projects/`](projects/)._
 
 ### Not Specified
 
@@ -156,7 +156,7 @@ _...and 2 more `Not Specified` repositories in [`projects/`](projects/)._
 | Repository | Appearances | Latest Stars | Description |
 | :--- | :---: | :---: | :--- |
 | [mattpocock/skills](projects/mattpocock__skills.md) | **40** | 260,474 | Skills for Real Engineers. Straight from my .agents directory. |
-| [omacom/omarchy](projects/omacom__omarchy.md) | **30** | 42,546 | Beautiful, Modern & Opinionated Linux |
+| [omacom/omarchy](projects/omacom__omarchy.md) | **31** | 42,697 | Beautiful, Modern & Opinionated Linux |
 | [basecamp/omarchy](projects/basecamp__omarchy.md) | **30** | 33,662 | Beautiful, Modern & Opinionated Linux |
 | [obra/superpowers](projects/obra__superpowers.md) | **20** | 288,550 | An agentic skills framework & software development methodology that works. |
 | [kunchenguid/firstmate](projects/kunchenguid__firstmate.md) | **7** | 6,730 | Talk to one agent. Ship with a crew. |
@@ -168,7 +168,7 @@ _...and 2 more `Not Specified` repositories in [`projects/`](projects/)._
 
 | Repository | Appearances | Latest Stars | Description |
 | :--- | :---: | :---: | :--- |
-| [JustVugg/colibri](projects/JustVugg__colibri.md) | **8** | 36,865 | Run frontier MoE models on hardware you already own — pure C, zero deps,... |
+| [JustVugg/colibri](projects/JustVugg__colibri.md) | **9** | 37,138 | Run frontier MoE models on hardware you already own — pure C, zero deps,... |
 | [antirez/ds4](projects/antirez__ds4.md) | **5** | 20,970 | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
 | [armory3d/armorpaint](projects/armory3d__armorpaint.md) | **3** | 4,906 | Graphics Creation Tools |
 | [erincatto/box3d](projects/erincatto__box3d.md) | **2** | 5,740 | Box3D is a 3D physics engine for games |
@@ -181,7 +181,7 @@ _...and 2 more `Not Specified` repositories in [`projects/`](projects/)._
 
 | Repository | Appearances | Latest Stars | Description |
 | :--- | :---: | :---: | :--- |
-| [Lakr233/vphone-cli](projects/Lakr233__vphone-cli.md) | **20** | 14,175 |  |
+| [Lakr233/vphone-cli](projects/Lakr233__vphone-cli.md) | **21** | 14,249 |  |
 | [permissionlesstech/bitchat](projects/permissionlesstech__bitchat.md) | **18** | 35,797 | bluetooth mesh chat, IRC vibes |
 | [vorssaint/vorssaint-utils](projects/vorssaint__vorssaint-utils.md) | **18** | 20,414 | Free and open-source macOS menu bar toolkit. |
 | [abue-ammar/tinycast](projects/abue-ammar__tinycast.md) | **5** | 6,662 | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard h... |
@@ -230,21 +230,21 @@ _...and 2 more `Not Specified` repositories in [`projects/`](projects/)._
 
 | Repository | Language | First Seen | Latest Stars | Description |
 | :--- | :--- | :---: | :---: | :--- |
+| [sergebulaev/linkedin-skills](projects/sergebulaev__linkedin-skills.md) | `Python` | 2026-09-23 | 3,313 | Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-... |
+| [google/ax](projects/google__ax.md) | `Go` | 2026-09-23 | 7,572 | Google's open agentic orchestration runtime |
+| [dream-num/univer](projects/dream-num__univer.md) | `TypeScript` | 2026-09-23 | 15,383 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relati... |
+| [davila7/claude-code-templates](projects/davila7__claude-code-templates.md) | `Python` | 2026-09-23 | 31,115 | CLI tool for configuring and monitoring Claude Code |
+| [superdesigndev/treg](projects/superdesigndev__treg.md) | `Python` | 2026-09-23 | 2,210 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+| [mvt-project/mvt](projects/mvt-project__mvt.md) | `Python` | 2026-09-22 | 14,097 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile d... |
+| [FlashML-org/FreeToken](projects/FlashML-org__FreeToken.md) | `Python` | 2026-09-22 | 13,610 | FreeToken brings datacenter-scale model serving to your desktop. Run massive ... |
 | [zhouxiaoka/autoclip](projects/zhouxiaoka__autoclip.md) | `Python` | 2026-09-22 | 8,226 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
-| [mvt-project/mvt](projects/mvt-project__mvt.md) | `Python` | 2026-09-22 | 13,588 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile d... |
-| [FlashML-org/FreeToken](projects/FlashML-org__FreeToken.md) | `Python` | 2026-09-22 | 13,462 | FreeToken brings datacenter-scale model serving to your desktop. Run massive ... |
-| [anthropics/financial-services](projects/anthropics__financial-services.md) | `Python` | 2026-09-21 | 35,824 |  |
+| [anthropics/financial-services](projects/anthropics__financial-services.md) | `Python` | 2026-09-21 | 36,316 |  |
 | [BuilderIO/agent-native](projects/BuilderIO__agent-native.md) | `TypeScript` | 2026-09-21 | 5,895 | A framework for building agentic apps |
 | [vercel-labs/json-render](projects/vercel-labs__json-render.md) | `TypeScript` | 2026-09-21 | 17,287 | The Generative UI framework |
 | [mihail911/modern-software-dev-assignments](projects/mihail911__modern-software-dev-assignments.md) | `Python` | 2026-09-21 | 4,546 | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 202... |
 | [paperless-ngx/paperless-ngx](projects/paperless-ngx__paperless-ngx.md) | `Python` | 2026-09-21 | 45,553 | A community-supported supercharged document management system: scan, index an... |
-| [Open-Dev-Society/OpenStock](projects/Open-Dev-Society__OpenStock.md) | `TypeScript` | 2026-09-20 | 17,719 | OpenStock is an open-source alternative to expensive market platforms. Track ... |
-| [cloudflare/quiche](projects/cloudflare__quiche.md) | `Rust` | 2026-09-20 | 12,347 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
-| [trycua/cua](projects/trycua__cua.md) | `HTML` | 2026-09-20 | 25,692 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchma... |
-| [higgsfield-ai/higgsfield](projects/higgsfield-ai__higgsfield.md) | `Jupyter Notebook` | 2026-09-20 | 5,366 | Fault-tolerant, highly scalable GPU orchestration, and a machine learning fra... |
-| [yynxxxxx/Codex-X](projects/yynxxxxx__Codex-X.md) | `Rust` | 2026-09-20 | 3,680 | OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML... |
-| [ruanyf/weekly](projects/ruanyf__weekly.md) | `Not Specified` | 2026-09-20 | 103,919 | 科技爱好者周刊，每周五发布 |
-| [docling-project/docling](projects/docling-project__docling.md) | `Python` | 2026-09-20 | 67,029 | Get your documents ready for gen AI |
+| [Open-Dev-Society/OpenStock](projects/Open-Dev-Society__OpenStock.md) | `TypeScript` | 2026-09-20 | 18,365 | OpenStock is an open-source alternative to expensive market platforms. Track ... |
+| [cloudflare/quiche](projects/cloudflare__quiche.md) | `Rust` | 2026-09-20 | 12,492 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
 
 ---
 
