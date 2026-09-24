@@ -7,14 +7,15 @@
 - **Repository:** [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-27
-- **Last Seen on Trending:** 2026-09-07
-- **Total Appearances:** 16 (Daily: 7, Weekly: 9, Monthly: 0)
-- **Latest Stars:** 43,280 | **Latest Forks:** 3,943
+- **Last Seen on Trending:** 2026-09-24
+- **Total Appearances:** 17 (Daily: 7, Weekly: 9, Monthly: 1)
+- **Latest Stars:** 46,339 | **Latest Forks:** 4,195
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-24 | month | #20 | 12,304 stars this month | 46,339 | 4,195 |
 | 2026-09-07 | week | #11 | 5,491 stars this week | 43,280 | 3,943 |
 | 2026-09-06 | week | #7 | 6,898 stars this week | 42,940 | 3,927 |
 | 2026-09-05 | week | #7 | 7,370 stars this week | 42,632 | 3,899 |

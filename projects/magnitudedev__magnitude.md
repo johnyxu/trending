@@ -1,20 +1,21 @@
 # [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 
-> Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.
+> Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.
 
 ## 📊 Project Metadata
 
 - **Repository:** [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-04
-- **Last Seen on Trending:** 2026-09-23
-- **Total Appearances:** 9 (Daily: 4, Weekly: 3, Monthly: 2)
-- **Latest Stars:** 4,850 | **Latest Forks:** 369
+- **Last Seen on Trending:** 2026-09-24
+- **Total Appearances:** 10 (Daily: 4, Weekly: 3, Monthly: 3)
+- **Latest Stars:** 4,941 | **Latest Forks:** 374
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-24 | month | #10 | 3,430 stars this month | 4,941 | 374 |
 | 2026-09-23 | month | #12 | 3,360 stars this month | 4,850 | 369 |
 | 2026-09-22 | month | #12 | 3,303 stars this month | 4,771 | 367 |
 | 2026-09-08 | week | #1 | 2,430 stars this week | 4,038 | 290 |
