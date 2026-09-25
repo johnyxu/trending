@@ -7,14 +7,15 @@
 - **Repository:** [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-04
-- **Last Seen on Trending:** 2026-09-24
-- **Total Appearances:** 10 (Daily: 4, Weekly: 3, Monthly: 3)
-- **Latest Stars:** 4,941 | **Latest Forks:** 374
+- **Last Seen on Trending:** 2026-09-25
+- **Total Appearances:** 11 (Daily: 4, Weekly: 3, Monthly: 4)
+- **Latest Stars:** 5,031 | **Latest Forks:** 376
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-25 | month | #10 | 3,518 stars this month | 5,031 | 376 |
 | 2026-09-24 | month | #10 | 3,430 stars this month | 4,941 | 374 |
 | 2026-09-23 | month | #12 | 3,360 stars this month | 4,850 | 369 |
 | 2026-09-22 | month | #12 | 3,303 stars this month | 4,771 | 367 |

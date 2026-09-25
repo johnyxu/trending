@@ -7,14 +7,15 @@
 - **Repository:** [tt-a1i/archify](https://github.com/tt-a1i/archify)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-08-03
-- **Last Seen on Trending:** 2026-09-24
-- **Total Appearances:** 65 (Daily: 6, Weekly: 19, Monthly: 40)
-- **Latest Stars:** 70,590 | **Latest Forks:** 4,748
+- **Last Seen on Trending:** 2026-09-25
+- **Total Appearances:** 66 (Daily: 6, Weekly: 19, Monthly: 41)
+- **Latest Stars:** 71,226 | **Latest Forks:** 4,786
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-25 | month | #3 | 56,351 stars this month | 71,226 | 4,786 |
 | 2026-09-24 | month | #2 | 55,857 stars this month | 70,590 | 4,748 |
 | 2026-09-23 | month | #1 | 55,243 stars this month | 69,898 | 4,690 |
 | 2026-09-22 | month | #1 | 54,494 stars this month | 69,119 | 4,637 |

@@ -7,14 +7,15 @@
 - **Repository:** [google-research/timesfm](https://github.com/google-research/timesfm)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-03
-- **Last Seen on Trending:** 2026-09-24
-- **Total Appearances:** 20 (Daily: 3, Weekly: 7, Monthly: 10)
-- **Latest Stars:** 33,578 | **Latest Forks:** 3,241
+- **Last Seen on Trending:** 2026-09-25
+- **Total Appearances:** 21 (Daily: 3, Weekly: 7, Monthly: 11)
+- **Latest Stars:** 33,648 | **Latest Forks:** 3,248
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-25 | month | #15 | 5,545 stars this month | 33,648 | 3,248 |
 | 2026-09-24 | month | #16 | 5,563 stars this month | 33,578 | 3,241 |
 | 2026-09-23 | month | #16 | 5,496 stars this month | 33,484 | 3,230 |
 | 2026-09-22 | month | #16 | 5,427 stars this month | 33,404 | 3,225 |
