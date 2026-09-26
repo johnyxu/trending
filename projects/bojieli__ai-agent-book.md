@@ -7,14 +7,15 @@
 - **Repository:** [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-08-26
-- **Total Appearances:** 13 (Daily: 1, Weekly: 3, Monthly: 9)
-- **Latest Stars:** 42,173 | **Latest Forks:** 4,669
+- **Last Seen on Trending:** 2026-09-26
+- **Total Appearances:** 14 (Daily: 1, Weekly: 4, Monthly: 9)
+- **Latest Stars:** 50,996 | **Latest Forks:** 5,720
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-26 | week | #21 | 2,485 stars this week | 50,996 | 5,720 |
 | 2026-08-26 | month | #13 | 23,084 stars this month | 42,173 | 4,669 |
 | 2026-08-25 | month | #10 | 23,452 stars this month | 41,747 | 4,613 |
 | 2026-08-24 | month | #11 | 24,229 stars this month | 41,177 | 4,550 |

@@ -7,14 +7,15 @@
 - **Repository:** [cline/cline](https://github.com/cline/cline)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-17
-- **Last Seen on Trending:** 2026-09-25
-- **Total Appearances:** 7 (Daily: 2, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 69,249 | **Latest Forks:** 7,512
+- **Last Seen on Trending:** 2026-09-26
+- **Total Appearances:** 8 (Daily: 2, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 69,325 | **Latest Forks:** 7,518
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-26 | week | #19 | 676 stars this week | 69,325 | 7,518 |
 | 2026-09-25 | week | #17 | 855 stars this week | 69,249 | 7,512 |
 | 2026-09-24 | week | #14 | 1,177 stars this week | 69,179 | 7,498 |
 | 2026-09-23 | week | #13 | 1,188 stars this week | 69,078 | 7,486 |

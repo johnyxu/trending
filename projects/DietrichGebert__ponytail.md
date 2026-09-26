@@ -7,14 +7,15 @@
 - **Repository:** [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-08-26
-- **Last Seen on Trending:** 2026-09-17
-- **Total Appearances:** 20 (Daily: 9, Weekly: 11, Monthly: 0)
-- **Latest Stars:** 140,341 | **Latest Forks:** 7,539
+- **Last Seen on Trending:** 2026-09-26
+- **Total Appearances:** 21 (Daily: 9, Weekly: 11, Monthly: 1)
+- **Latest Stars:** 145,996 | **Latest Forks:** 7,830
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-26 | month | #20 | 36,118 stars this month | 145,996 | 7,830 |
 | 2026-09-17 | week | #9 | 7,218 stars this week | 140,341 | 7,539 |
 | 2026-09-16 | week | #7 | 7,499 stars this week | 139,361 | 7,487 |
 | 2026-09-15 | week | #5 | 7,722 stars this week | 138,398 | 7,429 |
