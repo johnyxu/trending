@@ -7,14 +7,15 @@
 - **Repository:** [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - **Primary Language:** `PowerShell`
 - **First Seen on Trending:** 2026-07-31
-- **Last Seen on Trending:** 2026-09-02
-- **Total Appearances:** 45 (Daily: 7, Weekly: 11, Monthly: 27)
-- **Latest Stars:** 33,753 | **Latest Forks:** 4,569
+- **Last Seen on Trending:** 2026-09-27
+- **Total Appearances:** 46 (Daily: 8, Weekly: 11, Monthly: 27)
+- **Latest Stars:** 38,001 | **Latest Forks:** 5,271
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-27 | today | #10 | 361 stars today | 38,001 | 5,271 |
 | 2026-09-02 | month | #14 | 22,512 stars this month | 33,753 | 4,569 |
 | 2026-09-01 | month | #10 | 22,876 stars this month | 33,153 | 4,500 |
 | 2026-09-01 | today | #9 | 1,401 stars today | 33,153 | 4,500 |

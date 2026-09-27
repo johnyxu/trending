@@ -7,14 +7,15 @@
 - **Repository:** [block/buzz](https://github.com/block/buzz)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-08-29
-- **Total Appearances:** 21 (Daily: 1, Weekly: 10, Monthly: 10)
-- **Latest Stars:** 31,318 | **Latest Forks:** 3,998
+- **Last Seen on Trending:** 2026-09-27
+- **Total Appearances:** 22 (Daily: 2, Weekly: 10, Monthly: 10)
+- **Latest Stars:** 34,825 | **Latest Forks:** 4,594
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-27 | today | #8 | 339 stars today | 34,825 | 4,594 |
 | 2026-08-29 | month | #17 | 16,342 stars this month | 31,318 | 3,998 |
 | 2026-08-28 | month | #7 | 17,102 stars this month | 31,173 | 3,978 |
 | 2026-08-27 | month | #5 | 18,291 stars this month | 30,945 | 3,941 |
