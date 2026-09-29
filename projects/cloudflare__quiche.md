@@ -7,14 +7,15 @@
 - **Repository:** [cloudflare/quiche](https://github.com/cloudflare/quiche)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-09-20
-- **Last Seen on Trending:** 2026-09-28
-- **Total Appearances:** 9 (Daily: 2, Weekly: 7, Monthly: 0)
-- **Latest Stars:** 12,662 | **Latest Forks:** 1,150
+- **Last Seen on Trending:** 2026-09-29
+- **Total Appearances:** 10 (Daily: 2, Weekly: 8, Monthly: 0)
+- **Latest Stars:** 12,691 | **Latest Forks:** 1,153
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-29 | week | #17 | 522 stars this week | 12,691 | 1,153 |
 | 2026-09-28 | week | #15 | 521 stars this week | 12,662 | 1,150 |
 | 2026-09-27 | week | #15 | 736 stars this week | 12,632 | 1,149 |
 | 2026-09-26 | week | #15 | 769 stars this week | 12,609 | 1,148 |

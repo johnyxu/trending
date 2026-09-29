@@ -7,12 +7,13 @@
 - **Repository:** [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-28
-- **Last Seen on Trending:** 2026-09-28
-- **Total Appearances:** 1 (Daily: 0, Weekly: 0, Monthly: 1)
-- **Latest Stars:** 12,074 | **Latest Forks:** 957
+- **Last Seen on Trending:** 2026-09-29
+- **Total Appearances:** 2 (Daily: 0, Weekly: 0, Monthly: 2)
+- **Latest Stars:** 12,548 | **Latest Forks:** 994
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-29 | month | #3 | 10,909 stars this month | 12,548 | 994 |
 | 2026-09-28 | month | #3 | 10,481 stars this month | 12,074 | 957 |

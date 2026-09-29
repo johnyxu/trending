@@ -7,14 +7,15 @@
 - **Repository:** [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-09-04
-- **Last Seen on Trending:** 2026-09-28
-- **Total Appearances:** 14 (Daily: 4, Weekly: 3, Monthly: 7)
-- **Latest Stars:** 5,270 | **Latest Forks:** 378
+- **Last Seen on Trending:** 2026-09-29
+- **Total Appearances:** 15 (Daily: 4, Weekly: 3, Monthly: 8)
+- **Latest Stars:** 5,404 | **Latest Forks:** 385
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-29 | month | #8 | 3,856 stars this month | 5,404 | 385 |
 | 2026-09-28 | month | #10 | 3,743 stars this month | 5,270 | 378 |
 | 2026-09-27 | month | #8 | 3,675 stars this month | 5,175 | 376 |
 | 2026-09-26 | month | #9 | 3,598 stars this month | 5,109 | 374 |

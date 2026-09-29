@@ -7,14 +7,15 @@
 - **Repository:** [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-23
-- **Last Seen on Trending:** 2026-09-28
-- **Total Appearances:** 7 (Daily: 2, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 31,991 | **Latest Forks:** 3,643
+- **Last Seen on Trending:** 2026-09-29
+- **Total Appearances:** 8 (Daily: 2, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 32,081 | **Latest Forks:** 3,654
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-29 | week | #5 | 1,200 stars this week | 32,081 | 3,654 |
 | 2026-09-28 | week | #6 | 1,154 stars this week | 31,991 | 3,643 |
 | 2026-09-27 | week | #9 | 1,142 stars this week | 31,926 | 3,632 |
 | 2026-09-26 | week | #11 | 1,041 stars this week | 31,830 | 3,619 |
