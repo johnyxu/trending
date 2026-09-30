@@ -7,14 +7,15 @@
 - **Repository:** [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-25
-- **Last Seen on Trending:** 2026-09-29
-- **Total Appearances:** 3 (Daily: 1, Weekly: 2, Monthly: 0)
-- **Latest Stars:** 5,553 | **Latest Forks:** 264
+- **Last Seen on Trending:** 2026-09-30
+- **Total Appearances:** 4 (Daily: 1, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 5,585 | **Latest Forks:** 264
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-30 | week | #18 | 502 stars this week | 5,585 | 264 |
 | 2026-09-29 | week | #15 | 465 stars this week | 5,553 | 264 |
 | 2026-09-28 | week | #18 | 432 stars this week | 5,501 | 260 |
 | 2026-09-25 | today | #6 | 182 stars today | 5,364 | 250 |

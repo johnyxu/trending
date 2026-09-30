@@ -7,14 +7,15 @@
 - **Repository:** [fmtlib/fmt](https://github.com/fmtlib/fmt)
 - **Primary Language:** `C++`
 - **First Seen on Trending:** 2026-09-03
-- **Last Seen on Trending:** 2026-09-12
-- **Total Appearances:** 13 (Daily: 4, Weekly: 9, Monthly: 0)
-- **Latest Stars:** 25,742 | **Latest Forks:** 3,061
+- **Last Seen on Trending:** 2026-09-30
+- **Total Appearances:** 14 (Daily: 4, Weekly: 9, Monthly: 1)
+- **Latest Stars:** 25,835 | **Latest Forks:** 3,072
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-30 | month | #10 | 2,109 stars this month | 25,835 | 3,072 |
 | 2026-09-12 | week | #13 | 338 stars this week | 25,742 | 3,061 |
 | 2026-09-11 | week | #5 | 920 stars this week | 25,720 | 3,058 |
 | 2026-09-10 | week | #3 | 1,847 stars this week | 25,703 | 3,055 |
