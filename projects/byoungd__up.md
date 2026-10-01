@@ -7,12 +7,13 @@
 - **Repository:** [byoungd/up](https://github.com/byoungd/up)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-09-29
-- **Last Seen on Trending:** 2026-09-29
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 64,725 | **Latest Forks:** 6,516
+- **Last Seen on Trending:** 2026-10-01
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 66,393 | **Latest Forks:** 6,638
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-01 | today | #13 | 743 stars today | 66,393 | 6,638 |
 | 2026-09-29 | today | #6 | 327 stars today | 64,725 | 6,516 |

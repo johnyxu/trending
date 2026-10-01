@@ -7,14 +7,16 @@
 - **Repository:** [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-21
-- **Last Seen on Trending:** 2026-09-30
-- **Total Appearances:** 18 (Daily: 5, Weekly: 8, Monthly: 5)
-- **Latest Stars:** 38,246 | **Latest Forks:** 5,504
+- **Last Seen on Trending:** 2026-10-01
+- **Total Appearances:** 20 (Daily: 5, Weekly: 9, Monthly: 6)
+- **Latest Stars:** 38,370 | **Latest Forks:** 5,521
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-01 | month | #8 | 3,839 stars this month | 38,370 | 5,521 |
+| 2026-10-01 | week | #3 | 1,637 stars this week | 38,370 | 5,521 |
 | 2026-09-30 | month | #9 | 3,705 stars this month | 38,246 | 5,504 |
 | 2026-09-30 | week | #2 | 2,114 stars this week | 38,246 | 5,504 |
 | 2026-09-29 | month | #9 | 3,538 stars this month | 38,075 | 5,485 |
