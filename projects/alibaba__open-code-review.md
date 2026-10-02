@@ -7,14 +7,15 @@
 - **Repository:** [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 - **Primary Language:** `Go`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-10-01
-- **Total Appearances:** 40 (Daily: 6, Weekly: 21, Monthly: 13)
-- **Latest Stars:** 42,936 | **Latest Forks:** 3,087
+- **Last Seen on Trending:** 2026-10-02
+- **Total Appearances:** 41 (Daily: 6, Weekly: 21, Monthly: 14)
+- **Latest Stars:** 43,193 | **Latest Forks:** 3,109
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-02 | month | #2 | 21,646 stars this month | 43,193 | 3,109 |
 | 2026-10-01 | month | #2 | 21,460 stars this month | 42,936 | 3,087 |
 | 2026-09-30 | month | #2 | 21,236 stars this month | 42,606 | 3,062 |
 | 2026-09-29 | month | #4 | 20,955 stars this month | 42,313 | 3,037 |

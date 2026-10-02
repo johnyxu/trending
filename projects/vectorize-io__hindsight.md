@@ -7,14 +7,16 @@
 - **Repository:** [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-25
-- **Last Seen on Trending:** 2026-10-01
-- **Total Appearances:** 15 (Daily: 6, Weekly: 7, Monthly: 2)
-- **Latest Stars:** 43,934 | **Latest Forks:** 5,840
+- **Last Seen on Trending:** 2026-10-02
+- **Total Appearances:** 17 (Daily: 6, Weekly: 8, Monthly: 3)
+- **Latest Stars:** 44,329 | **Latest Forks:** 5,856
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-02 | month | #11 | 22,416 stars this month | 44,329 | 5,856 |
+| 2026-10-02 | week | #2 | 17,403 stars this week | 44,329 | 5,856 |
 | 2026-10-01 | month | #13 | 21,957 stars this month | 43,934 | 5,840 |
 | 2026-10-01 | week | #2 | 18,389 stars this week | 43,934 | 5,840 |
 | 2026-09-30 | month | #15 | 20,640 stars this month | 42,862 | 5,771 |

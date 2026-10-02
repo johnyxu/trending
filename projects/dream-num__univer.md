@@ -7,14 +7,15 @@
 - **Repository:** [dream-num/univer](https://github.com/dream-num/univer)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-23
-- **Last Seen on Trending:** 2026-10-01
-- **Total Appearances:** 10 (Daily: 8, Weekly: 2, Monthly: 0)
-- **Latest Stars:** 22,177 | **Latest Forks:** 1,869
+- **Last Seen on Trending:** 2026-10-02
+- **Total Appearances:** 11 (Daily: 8, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 22,252 | **Latest Forks:** 1,869
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-02 | week | #15 | 5,267 stars this week | 22,252 | 1,869 |
 | 2026-10-01 | week | #17 | 6,091 stars this week | 22,177 | 1,869 |
 | 2026-09-30 | today | #13 | 696 stars today | 21,864 | 1,847 |
 | 2026-09-29 | today | #8 | 1,099 stars today | 21,293 | 1,804 |

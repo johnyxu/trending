@@ -1,0 +1,19 @@
+# [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+
+> Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+
+## 📊 Project Metadata
+
+- **Repository:** [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+- **Primary Language:** `Python`
+- **First Seen on Trending:** 2026-10-02
+- **Last Seen on Trending:** 2026-10-02
+- **Total Appearances:** 2 (Daily: 1, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 8,114 | **Latest Forks:** 815
+
+## 📈 Trending History
+
+| Date | Range | Rank | Period Stars | Total Stars | Forks |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-02 | week | #13 | 481 stars this week | 8,114 | 815 |
+| 2026-10-02 | today | #11 | 163 stars today | 8,114 | 815 |
