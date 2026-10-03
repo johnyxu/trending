@@ -7,14 +7,15 @@
 - **Repository:** [pytorch/pytorch](https://github.com/pytorch/pytorch)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-24
-- **Last Seen on Trending:** 2026-10-01
-- **Total Appearances:** 8 (Daily: 0, Weekly: 8, Monthly: 0)
-- **Latest Stars:** 103,569 | **Latest Forks:** 31,021
+- **Last Seen on Trending:** 2026-10-03
+- **Total Appearances:** 9 (Daily: 0, Weekly: 9, Monthly: 0)
+- **Latest Stars:** 103,626 | **Latest Forks:** 31,157
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-03 | week | #15 | 369 stars this week | 103,626 | 31,157 |
 | 2026-10-01 | week | #9 | 398 stars this week | 103,569 | 31,021 |
 | 2026-09-30 | week | #10 | 399 stars this week | 103,527 | 31,003 |
 | 2026-09-29 | week | #10 | 340 stars this week | 103,472 | 30,861 |

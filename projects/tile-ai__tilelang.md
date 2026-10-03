@@ -7,13 +7,14 @@
 - **Repository:** [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-10-02
-- **Last Seen on Trending:** 2026-10-02
-- **Total Appearances:** 2 (Daily: 1, Weekly: 1, Monthly: 0)
-- **Latest Stars:** 8,114 | **Latest Forks:** 815
+- **Last Seen on Trending:** 2026-10-03
+- **Total Appearances:** 3 (Daily: 1, Weekly: 2, Monthly: 0)
+- **Latest Stars:** 8,244 | **Latest Forks:** 829
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-03 | week | #13 | 732 stars this week | 8,244 | 829 |
 | 2026-10-02 | week | #13 | 481 stars this week | 8,114 | 815 |
 | 2026-10-02 | today | #11 | 163 stars today | 8,114 | 815 |

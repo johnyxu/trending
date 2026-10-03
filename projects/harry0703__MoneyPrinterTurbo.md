@@ -7,14 +7,15 @@
 - **Repository:** [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-18
-- **Last Seen on Trending:** 2026-10-01
-- **Total Appearances:** 16 (Daily: 6, Weekly: 9, Monthly: 1)
-- **Latest Stars:** 127,572 | **Latest Forks:** 19,955
+- **Last Seen on Trending:** 2026-10-03
+- **Total Appearances:** 17 (Daily: 6, Weekly: 10, Monthly: 1)
+- **Latest Stars:** 128,095 | **Latest Forks:** 20,036
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-03 | week | #16 | 2,533 stars this week | 128,095 | 20,036 |
 | 2026-10-01 | today | #6 | 431 stars today | 127,572 | 19,955 |
 | 2026-09-11 | month | #24 | 20,448 stars this month | 122,233 | 18,881 |
 | 2026-08-28 | week | #8 | 4,951 stars this week | 117,576 | 17,899 |
