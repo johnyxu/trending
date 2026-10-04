@@ -7,14 +7,15 @@
 - **Repository:** [earendil-works/pi](https://github.com/earendil-works/pi)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-10-02
-- **Total Appearances:** 28 (Daily: 2, Weekly: 3, Monthly: 23)
-- **Latest Stars:** 111,239 | **Latest Forks:** 14,134
+- **Last Seen on Trending:** 2026-10-04
+- **Total Appearances:** 29 (Daily: 3, Weekly: 3, Monthly: 23)
+- **Latest Stars:** 112,156 | **Latest Forks:** 14,229
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-04 | today | #14 | 408 stars today | 112,156 | 14,229 |
 | 2026-10-02 | today | #10 | 298 stars today | 111,239 | 14,134 |
 | 2026-09-16 | today | #14 | 458 stars today | 105,691 | 13,285 |
 | 2026-09-01 | month | #20 | 18,958 stars this month | 99,993 | 12,414 |
