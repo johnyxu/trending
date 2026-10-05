@@ -7,14 +7,15 @@
 - **Repository:** [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-09-07
-- **Last Seen on Trending:** 2026-10-03
-- **Total Appearances:** 11 (Daily: 4, Weekly: 7, Monthly: 0)
-- **Latest Stars:** 52,420 | **Latest Forks:** 7,879
+- **Last Seen on Trending:** 2026-10-05
+- **Total Appearances:** 12 (Daily: 5, Weekly: 7, Monthly: 0)
+- **Latest Stars:** 53,074 | **Latest Forks:** 7,917
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-05 | today | #3 | 197 stars today | 53,074 | 7,917 |
 | 2026-10-03 | today | #8 | 140 stars today | 52,420 | 7,879 |
 | 2026-09-15 | week | #18 | 2,344 stars this week | 50,245 | 7,610 |
 | 2026-09-14 | week | #12 | 2,678 stars this week | 49,988 | 7,586 |

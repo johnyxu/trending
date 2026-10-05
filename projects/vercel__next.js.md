@@ -7,14 +7,15 @@
 - **Repository:** [vercel/next.js](https://github.com/vercel/next.js)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-08-06
-- **Last Seen on Trending:** 2026-10-04
-- **Total Appearances:** 9 (Daily: 2, Weekly: 7, Monthly: 0)
-- **Latest Stars:** 143,084 | **Latest Forks:** 33,769
+- **Last Seen on Trending:** 2026-10-05
+- **Total Appearances:** 10 (Daily: 2, Weekly: 8, Monthly: 0)
+- **Latest Stars:** 143,171 | **Latest Forks:** 33,898
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-05 | week | #14 | 477 stars this week | 143,171 | 33,898 |
 | 2026-10-04 | week | #7 | 678 stars this week | 143,084 | 33,769 |
 | 2026-10-03 | week | #7 | 658 stars this week | 143,004 | 33,696 |
 | 2026-10-02 | week | #6 | 624 stars this week | 142,992 | 33,559 |

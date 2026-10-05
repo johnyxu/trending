@@ -1,20 +1,21 @@
 # [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
 
-> A library of agent skills for CAD, CAE and CAM
+> Give your agent CAD superpowers.
 
 ## 📊 Project Metadata
 
 - **Repository:** [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-07-31
-- **Last Seen on Trending:** 2026-09-16
-- **Total Appearances:** 10 (Daily: 1, Weekly: 9, Monthly: 0)
-- **Latest Stars:** 15,897 | **Latest Forks:** 1,651
+- **Last Seen on Trending:** 2026-10-05
+- **Total Appearances:** 11 (Daily: 2, Weekly: 9, Monthly: 0)
+- **Latest Stars:** 16,860 | **Latest Forks:** 1,742
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-05 | today | #5 | 83 stars today | 16,860 | 1,742 |
 | 2026-09-16 | week | #20 | 1,141 stars this week | 15,897 | 1,651 |
 | 2026-09-15 | week | #19 | 1,194 stars this week | 15,772 | 1,629 |
 | 2026-09-14 | week | #20 | 1,054 stars this week | 15,579 | 1,609 |

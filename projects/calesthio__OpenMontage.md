@@ -7,14 +7,15 @@
 - **Repository:** [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-12
-- **Last Seen on Trending:** 2026-09-14
-- **Total Appearances:** 6 (Daily: 5, Weekly: 1, Monthly: 0)
-- **Latest Stars:** 58,412 | **Latest Forks:** 7,351
+- **Last Seen on Trending:** 2026-10-05
+- **Total Appearances:** 7 (Daily: 6, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 63,220 | **Latest Forks:** 8,060
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-05 | today | #8 | 245 stars today | 63,220 | 8,060 |
 | 2026-09-14 | today | #6 | 380 stars today | 58,412 | 7,351 |
 | 2026-09-03 | week | #17 | 5,078 stars this week | 55,679 | 6,955 |
 | 2026-08-30 | today | #10 | 806 stars today | 54,058 | 6,714 |

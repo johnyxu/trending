@@ -1,20 +1,21 @@
 # [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-> Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+> Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 
 ## 📊 Project Metadata
 
 - **Repository:** [tt-a1i/archify](https://github.com/tt-a1i/archify)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-08-03
-- **Last Seen on Trending:** 2026-10-04
-- **Total Appearances:** 75 (Daily: 6, Weekly: 19, Monthly: 50)
-- **Latest Stars:** 76,757 | **Latest Forks:** 5,176
+- **Last Seen on Trending:** 2026-10-05
+- **Total Appearances:** 76 (Daily: 6, Weekly: 19, Monthly: 51)
+- **Latest Stars:** 77,458 | **Latest Forks:** 5,212
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-05 | month | #9 | 30,184 stars this month | 77,458 | 5,212 |
 | 2026-10-04 | month | #9 | 31,939 stars this month | 76,757 | 5,176 |
 | 2026-10-03 | month | #6 | 33,363 stars this month | 76,276 | 5,130 |
 | 2026-10-02 | month | #6 | 35,068 stars this month | 75,840 | 5,099 |

@@ -7,14 +7,15 @@
 - **Repository:** [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-02
-- **Last Seen on Trending:** 2026-10-04
-- **Total Appearances:** 4 (Daily: 2, Weekly: 2, Monthly: 0)
-- **Latest Stars:** 3,846 | **Latest Forks:** 337
+- **Last Seen on Trending:** 2026-10-05
+- **Total Appearances:** 5 (Daily: 2, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 4,368 | **Latest Forks:** 386
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-05 | week | #17 | 2,361 stars this week | 4,368 | 386 |
 | 2026-10-04 | week | #17 | 1,917 stars this week | 3,846 | 337 |
 | 2026-10-03 | week | #17 | 1,415 stars this week | 3,505 | 310 |
 | 2026-10-03 | today | #17 | 623 stars today | 3,505 | 310 |

@@ -7,14 +7,15 @@
 - **Repository:** [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-10-04
-- **Total Appearances:** 20 (Daily: 5, Weekly: 1, Monthly: 14)
-- **Latest Stars:** 91,613 | **Latest Forks:** 9,057
+- **Last Seen on Trending:** 2026-10-05
+- **Total Appearances:** 21 (Daily: 6, Weekly: 1, Monthly: 14)
+- **Latest Stars:** 92,139 | **Latest Forks:** 9,082
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-05 | today | #15 | 512 stars today | 92,139 | 9,082 |
 | 2026-10-04 | today | #19 | 232 stars today | 91,613 | 9,057 |
 | 2026-09-02 | week | #13 | 2,630 stars this week | 88,342 | 8,709 |
 | 2026-08-28 | today | #18 | 478 stars today | 87,550 | 8,638 |
