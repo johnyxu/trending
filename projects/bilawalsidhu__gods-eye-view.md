@@ -7,14 +7,15 @@
 - **Repository:** [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-08-28
-- **Last Seen on Trending:** 2026-10-05
-- **Total Appearances:** 36 (Daily: 7, Weekly: 17, Monthly: 12)
-- **Latest Stars:** 47,529 | **Latest Forks:** 9,686
+- **Last Seen on Trending:** 2026-10-06
+- **Total Appearances:** 37 (Daily: 7, Weekly: 17, Monthly: 13)
+- **Latest Stars:** 47,999 | **Latest Forks:** 9,770
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-06 | month | #1 | 30,235 stars this month | 47,999 | 9,770 |
 | 2026-10-05 | month | #1 | 30,324 stars this month | 47,529 | 9,686 |
 | 2026-10-04 | month | #1 | 30,444 stars this month | 47,035 | 9,606 |
 | 2026-10-03 | month | #1 | 31,110 stars this month | 46,576 | 9,524 |

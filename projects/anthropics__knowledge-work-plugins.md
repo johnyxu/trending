@@ -7,14 +7,15 @@
 - **Repository:** [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-17
-- **Last Seen on Trending:** 2026-10-05
-- **Total Appearances:** 20 (Daily: 4, Weekly: 11, Monthly: 5)
-- **Latest Stars:** 26,085 | **Latest Forks:** 3,053
+- **Last Seen on Trending:** 2026-10-06
+- **Total Appearances:** 21 (Daily: 4, Weekly: 11, Monthly: 6)
+- **Latest Stars:** 26,192 | **Latest Forks:** 3,063
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-06 | month | #21 | 2,343 stars this month | 26,192 | 3,063 |
 | 2026-10-05 | month | #21 | 2,297 stars this month | 26,085 | 3,053 |
 | 2026-10-04 | month | #20 | 2,272 stars this month | 26,037 | 3,054 |
 | 2026-10-03 | month | #20 | 2,238 stars this month | 25,986 | 3,052 |

@@ -7,14 +7,16 @@
 - **Repository:** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-03
-- **Last Seen on Trending:** 2026-10-05
-- **Total Appearances:** 14 (Daily: 6, Weekly: 8, Monthly: 0)
-- **Latest Stars:** 90,880 | **Latest Forks:** 7,983
+- **Last Seen on Trending:** 2026-10-06
+- **Total Appearances:** 16 (Daily: 7, Weekly: 9, Monthly: 0)
+- **Latest Stars:** 91,928 | **Latest Forks:** 8,067
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-06 | week | #6 | 5,703 stars this week | 91,928 | 8,067 |
+| 2026-10-06 | today | #6 | 1,155 stars today | 91,928 | 8,067 |
 | 2026-10-05 | week | #8 | 4,789 stars this week | 90,880 | 7,983 |
 | 2026-10-05 | today | #6 | 980 stars today | 90,880 | 7,983 |
 | 2026-10-04 | week | #11 | 3,952 stars this week | 89,798 | 7,902 |
