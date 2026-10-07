@@ -1,20 +1,21 @@
 # [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 
-> Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+> Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 ## 📊 Project Metadata
 
 - **Repository:** [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 - **Primary Language:** `HTML`
 - **First Seen on Trending:** 2026-08-13
-- **Last Seen on Trending:** 2026-09-21
-- **Total Appearances:** 40 (Daily: 10, Weekly: 13, Monthly: 17)
-- **Latest Stars:** 41,568 | **Latest Forks:** 2,666
+- **Last Seen on Trending:** 2026-10-07
+- **Total Appearances:** 41 (Daily: 11, Weekly: 13, Monthly: 17)
+- **Latest Stars:** 44,048 | **Latest Forks:** 2,842
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-07 | today | #12 | 228 stars today | 44,048 | 2,842 |
 | 2026-09-21 | month | #16 | 17,716 stars this month | 41,568 | 2,666 |
 | 2026-09-20 | month | #14 | 18,899 stars this month | 41,341 | 2,646 |
 | 2026-09-19 | month | #11 | 19,891 stars this month | 41,145 | 2,632 |

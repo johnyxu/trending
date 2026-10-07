@@ -7,14 +7,15 @@
 - **Repository:** [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 - **Primary Language:** `Shell`
 - **First Seen on Trending:** 2026-08-10
-- **Last Seen on Trending:** 2026-10-06
-- **Total Appearances:** 7 (Daily: 6, Weekly: 1, Monthly: 0)
-- **Latest Stars:** 157,292 | **Latest Forks:** 25,373
+- **Last Seen on Trending:** 2026-10-07
+- **Total Appearances:** 8 (Daily: 7, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 157,837 | **Latest Forks:** 25,448
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-07 | today | #10 | 623 stars today | 157,837 | 25,448 |
 | 2026-10-06 | week | #19 | 2,116 stars this week | 157,292 | 25,373 |
 | 2026-10-06 | today | #12 | 744 stars today | 157,292 | 25,373 |
 | 2026-08-14 | today | #14 | 762 stars today | 145,164 | 23,483 |

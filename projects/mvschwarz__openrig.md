@@ -7,14 +7,15 @@
 - **Repository:** [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-28
-- **Last Seen on Trending:** 2026-10-06
-- **Total Appearances:** 8 (Daily: 6, Weekly: 2, Monthly: 0)
-- **Latest Stars:** 5,266 | **Latest Forks:** 387
+- **Last Seen on Trending:** 2026-10-07
+- **Total Appearances:** 9 (Daily: 6, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 5,522 | **Latest Forks:** 403
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-07 | week | #1 | 3,327 stars this week | 5,522 | 403 |
 | 2026-10-06 | week | #21 | 3,776 stars this week | 5,266 | 387 |
 | 2026-10-05 | week | #18 | 4,251 stars this week | 4,980 | 356 |
 | 2026-10-03 | today | #15 | 683 stars today | 4,313 | 294 |
