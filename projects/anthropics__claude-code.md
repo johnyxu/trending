@@ -7,14 +7,15 @@
 - **Repository:** [anthropics/claude-code](https://github.com/anthropics/claude-code)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-23
-- **Last Seen on Trending:** 2026-10-08
-- **Total Appearances:** 26 (Daily: 7, Weekly: 11, Monthly: 8)
-- **Latest Stars:** 149,784 | **Latest Forks:** 25,719
+- **Last Seen on Trending:** 2026-10-09
+- **Total Appearances:** 27 (Daily: 7, Weekly: 11, Monthly: 9)
+- **Latest Stars:** 149,731 | **Latest Forks:** 25,793
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-09 | month | #9 | 6,111 stars this month | 149,731 | 25,793 |
 | 2026-10-08 | month | #10 | 6,067 stars this month | 149,784 | 25,719 |
 | 2026-10-07 | month | #9 | 6,022 stars this month | 149,637 | 25,674 |
 | 2026-10-06 | month | #12 | 6,009 stars this month | 149,531 | 25,574 |

@@ -7,14 +7,15 @@
 - **Repository:** [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - **Primary Language:** `C`
 - **First Seen on Trending:** 2026-09-11
-- **Last Seen on Trending:** 2026-10-08
-- **Total Appearances:** 13 (Daily: 6, Weekly: 5, Monthly: 2)
-- **Latest Stars:** 40,335 | **Latest Forks:** 4,436
+- **Last Seen on Trending:** 2026-10-09
+- **Total Appearances:** 14 (Daily: 6, Weekly: 5, Monthly: 3)
+- **Latest Stars:** 40,587 | **Latest Forks:** 4,461
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-09 | month | #16 | 13,653 stars this month | 40,587 | 4,461 |
 | 2026-10-08 | month | #18 | 13,446 stars this month | 40,335 | 4,436 |
 | 2026-10-07 | month | #21 | 13,243 stars this month | 40,049 | 4,409 |
 | 2026-09-25 | week | #11 | 2,055 stars this week | 37,540 | 4,065 |
