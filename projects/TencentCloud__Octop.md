@@ -7,14 +7,15 @@
 - **Repository:** [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-18
-- **Last Seen on Trending:** 2026-10-09
-- **Total Appearances:** 25 (Daily: 2, Weekly: 14, Monthly: 9)
-- **Latest Stars:** 8,027 | **Latest Forks:** 965
+- **Last Seen on Trending:** 2026-10-10
+- **Total Appearances:** 26 (Daily: 2, Weekly: 14, Monthly: 10)
+- **Latest Stars:** 8,251 | **Latest Forks:** 999
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-10 | month | #10 | 6,720 stars this month | 8,251 | 999 |
 | 2026-10-09 | month | #10 | 6,497 stars this month | 8,027 | 965 |
 | 2026-10-08 | month | #11 | 6,193 stars this month | 7,731 | 931 |
 | 2026-10-07 | month | #12 | 5,766 stars this month | 7,440 | 905 |

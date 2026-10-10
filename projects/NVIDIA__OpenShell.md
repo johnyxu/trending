@@ -7,14 +7,15 @@
 - **Repository:** [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-09-30
-- **Last Seen on Trending:** 2026-10-09
-- **Total Appearances:** 13 (Daily: 4, Weekly: 3, Monthly: 6)
-- **Latest Stars:** 15,483 | **Latest Forks:** 1,743
+- **Last Seen on Trending:** 2026-10-10
+- **Total Appearances:** 14 (Daily: 4, Weekly: 3, Monthly: 7)
+- **Latest Stars:** 15,607 | **Latest Forks:** 1,749
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-10 | month | #13 | 7,118 stars this month | 15,607 | 1,749 |
 | 2026-10-09 | month | #12 | 6,997 stars this month | 15,483 | 1,743 |
 | 2026-10-08 | month | #14 | 6,795 stars this month | 15,310 | 1,728 |
 | 2026-10-08 | week | #5 | 3,690 stars this week | 15,310 | 1,728 |
