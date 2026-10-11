@@ -7,14 +7,15 @@
 - **Repository:** [trycua/cua](https://github.com/trycua/cua)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-09-20
-- **Last Seen on Trending:** 2026-10-10
-- **Total Appearances:** 17 (Daily: 4, Weekly: 2, Monthly: 11)
-- **Latest Stars:** 29,188 | **Latest Forks:** 2,061
+- **Last Seen on Trending:** 2026-10-11
+- **Total Appearances:** 18 (Daily: 4, Weekly: 2, Monthly: 12)
+- **Latest Stars:** 29,296 | **Latest Forks:** 2,075
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-11 | month | #17 | 6,950 stars this month | 29,296 | 2,075 |
 | 2026-10-10 | month | #17 | 6,877 stars this month | 29,188 | 2,061 |
 | 2026-10-09 | month | #19 | 6,777 stars this month | 29,053 | 2,051 |
 | 2026-10-08 | month | #19 | 6,438 stars this month | 28,766 | 2,040 |

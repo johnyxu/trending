@@ -7,14 +7,15 @@
 - **Repository:** [tester-army/e2e](https://github.com/tester-army/e2e)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-05
-- **Last Seen on Trending:** 2026-10-08
-- **Total Appearances:** 4 (Daily: 4, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 7,502 | **Latest Forks:** 343
+- **Last Seen on Trending:** 2026-10-11
+- **Total Appearances:** 5 (Daily: 4, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 8,727 | **Latest Forks:** 423
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-11 | week | #13 | 6,564 stars this week | 8,727 | 423 |
 | 2026-10-08 | today | #12 | 1,390 stars today | 7,502 | 343 |
 | 2026-10-07 | today | #1 | 1,725 stars today | 6,359 | 285 |
 | 2026-10-06 | today | #1 | 1,398 stars today | 4,869 | 202 |
