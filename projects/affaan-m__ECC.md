@@ -7,14 +7,15 @@
 - **Repository:** [affaan-m/ECC](https://github.com/affaan-m/ECC)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-10-11
-- **Total Appearances:** 54 (Daily: 19, Weekly: 23, Monthly: 12)
-- **Latest Stars:** 276,535 | **Latest Forks:** 41,243
+- **Last Seen on Trending:** 2026-10-12
+- **Total Appearances:** 55 (Daily: 19, Weekly: 23, Monthly: 13)
+- **Latest Stars:** 277,243 | **Latest Forks:** 41,351
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-12 | month | #6 | 22,438 stars this month | 277,243 | 41,351 |
 | 2026-10-11 | month | #5 | 22,474 stars this month | 276,535 | 41,243 |
 | 2026-10-10 | month | #5 | 22,710 stars this month | 276,002 | 41,179 |
 | 2026-10-09 | month | #6 | 23,115 stars this month | 275,419 | 41,112 |

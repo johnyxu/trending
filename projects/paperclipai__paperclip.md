@@ -7,14 +7,15 @@
 - **Repository:** [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-11
-- **Last Seen on Trending:** 2026-10-11
-- **Total Appearances:** 33 (Daily: 8, Weekly: 13, Monthly: 12)
-- **Latest Stars:** 99,751 | **Latest Forks:** 16,821
+- **Last Seen on Trending:** 2026-10-12
+- **Total Appearances:** 34 (Daily: 8, Weekly: 13, Monthly: 13)
+- **Latest Stars:** 100,381 | **Latest Forks:** 16,909
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-12 | month | #4 | 19,987 stars this month | 100,381 | 16,909 |
 | 2026-10-11 | month | #4 | 19,499 stars this month | 99,751 | 16,821 |
 | 2026-10-10 | month | #4 | 19,137 stars this month | 99,252 | 16,749 |
 | 2026-10-09 | month | #5 | 18,863 stars this month | 98,872 | 16,695 |
