@@ -1,20 +1,21 @@
 # [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 
-> Learn it. Build it. Ship it for others.
+> Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 ## 📊 Project Metadata
 
 - **Repository:** [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-25
-- **Last Seen on Trending:** 2026-10-06
-- **Total Appearances:** 27 (Daily: 11, Weekly: 16, Monthly: 0)
-- **Latest Stars:** 64,786 | **Latest Forks:** 11,142
+- **Last Seen on Trending:** 2026-10-13
+- **Total Appearances:** 28 (Daily: 11, Weekly: 16, Monthly: 1)
+- **Latest Stars:** 68,152 | **Latest Forks:** 11,935
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-13 | month | #22 | 13,880 stars this month | 68,152 | 11,935 |
 | 2026-10-06 | week | #11 | 4,375 stars this week | 64,786 | 11,142 |
 | 2026-10-05 | week | #7 | 4,904 stars this week | 63,921 | 10,935 |
 | 2026-10-04 | week | #5 | 5,059 stars this week | 63,152 | 10,800 |

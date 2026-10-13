@@ -7,14 +7,15 @@
 - **Repository:** [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-10-06
-- **Last Seen on Trending:** 2026-10-11
-- **Total Appearances:** 8 (Daily: 3, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 9,239 | **Latest Forks:** 1,148
+- **Last Seen on Trending:** 2026-10-13
+- **Total Appearances:** 9 (Daily: 3, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 10,575 | **Latest Forks:** 1,287
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-13 | week | #11 | 6,621 stars this week | 10,575 | 1,287 |
 | 2026-10-11 | week | #12 | 7,369 stars this week | 9,239 | 1,148 |
 | 2026-10-10 | week | #11 | 6,749 stars this week | 8,689 | 1,084 |
 | 2026-10-09 | week | #10 | 6,086 stars this week | 8,051 | 1,024 |

@@ -1,20 +1,21 @@
 # [lyogavin/airllm](https://github.com/lyogavin/airllm)
 
-> AirLLM 70B inference with single 4GB GPU
+> AirLLM 2.8T LLM inference with single 4GB GPU
 
 ## 📊 Project Metadata
 
 - **Repository:** [lyogavin/airllm](https://github.com/lyogavin/airllm)
 - **Primary Language:** `Jupyter Notebook`
 - **First Seen on Trending:** 2026-08-03
-- **Last Seen on Trending:** 2026-10-12
-- **Total Appearances:** 26 (Daily: 5, Weekly: 9, Monthly: 12)
-- **Latest Stars:** 36,504 | **Latest Forks:** 3,818
+- **Last Seen on Trending:** 2026-10-13
+- **Total Appearances:** 27 (Daily: 6, Weekly: 9, Monthly: 12)
+- **Latest Stars:** 37,620 | **Latest Forks:** 3,878
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-13 | today | #7 | 879 stars today | 37,620 | 3,878 |
 | 2026-10-12 | today | #7 | 548 stars today | 36,504 | 3,818 |
 | 2026-08-31 | month | #21 | 8,974 stars this month | 33,177 | 3,486 |
 | 2026-08-30 | month | #18 | 8,930 stars this month | 33,061 | 3,476 |
