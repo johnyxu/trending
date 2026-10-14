@@ -7,14 +7,15 @@
 - **Repository:** [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
 - **Primary Language:** `C`
 - **First Seen on Trending:** 2026-10-08
-- **Last Seen on Trending:** 2026-10-12
-- **Total Appearances:** 6 (Daily: 2, Weekly: 4, Monthly: 0)
-- **Latest Stars:** 8,396 | **Latest Forks:** 405
+- **Last Seen on Trending:** 2026-10-14
+- **Total Appearances:** 7 (Daily: 2, Weekly: 5, Monthly: 0)
+- **Latest Stars:** 8,485 | **Latest Forks:** 413
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-14 | week | #4 | 857 stars this week | 8,485 | 413 |
 | 2026-10-12 | week | #5 | 794 stars this week | 8,396 | 405 |
 | 2026-10-11 | week | #3 | 740 stars this week | 8,330 | 404 |
 | 2026-10-10 | week | #6 | 654 stars this week | 8,268 | 394 |

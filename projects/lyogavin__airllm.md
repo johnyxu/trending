@@ -7,14 +7,15 @@
 - **Repository:** [lyogavin/airllm](https://github.com/lyogavin/airllm)
 - **Primary Language:** `Jupyter Notebook`
 - **First Seen on Trending:** 2026-08-03
-- **Last Seen on Trending:** 2026-10-13
-- **Total Appearances:** 27 (Daily: 6, Weekly: 9, Monthly: 12)
-- **Latest Stars:** 37,620 | **Latest Forks:** 3,878
+- **Last Seen on Trending:** 2026-10-14
+- **Total Appearances:** 28 (Daily: 7, Weekly: 9, Monthly: 12)
+- **Latest Stars:** 38,340 | **Latest Forks:** 3,920
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-14 | today | #7 | 1,001 stars today | 38,340 | 3,920 |
 | 2026-10-13 | today | #7 | 879 stars today | 37,620 | 3,878 |
 | 2026-10-12 | today | #7 | 548 stars today | 36,504 | 3,818 |
 | 2026-08-31 | month | #21 | 8,974 stars this month | 33,177 | 3,486 |
