@@ -7,14 +7,15 @@
 - **Repository:** [flutter/flutter](https://github.com/flutter/flutter)
 - **Primary Language:** `Dart`
 - **First Seen on Trending:** 2026-10-02
-- **Last Seen on Trending:** 2026-10-14
-- **Total Appearances:** 8 (Daily: 1, Weekly: 7, Monthly: 0)
-- **Latest Stars:** 180,107 | **Latest Forks:** 34,015
+- **Last Seen on Trending:** 2026-10-15
+- **Total Appearances:** 9 (Daily: 1, Weekly: 8, Monthly: 0)
+- **Latest Stars:** 180,170 | **Latest Forks:** 34,106
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-15 | week | #11 | 1,117 stars this week | 180,170 | 34,106 |
 | 2026-10-14 | week | #9 | 967 stars this week | 180,107 | 34,015 |
 | 2026-10-13 | week | #6 | 806 stars this week | 179,986 | 33,843 |
 | 2026-10-12 | week | #8 | 680 stars this week | 179,805 | 33,788 |
