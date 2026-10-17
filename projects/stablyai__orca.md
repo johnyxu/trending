@@ -1,20 +1,21 @@
 # [stablyai/orca](https://github.com/stablyai/orca)
 
-> Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+> Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 ## 📊 Project Metadata
 
 - **Repository:** [stablyai/orca](https://github.com/stablyai/orca)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-10-01
-- **Total Appearances:** 38 (Daily: 2, Weekly: 14, Monthly: 22)
-- **Latest Stars:** 82,380 | **Latest Forks:** 5,351
+- **Last Seen on Trending:** 2026-10-18
+- **Total Appearances:** 39 (Daily: 3, Weekly: 14, Monthly: 22)
+- **Latest Stars:** 95,385 | **Latest Forks:** 6,108
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-18 | today | #8 | 829 stars today | 95,385 | 6,108 |
 | 2026-10-01 | week | #12 | 5,987 stars this week | 82,380 | 5,351 |
 | 2026-09-30 | week | #9 | 6,242 stars this week | 81,648 | 5,292 |
 | 2026-09-29 | week | #8 | 6,151 stars this week | 80,764 | 5,258 |

@@ -7,14 +7,15 @@
 - **Repository:** [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 - **Primary Language:** `Go`
 - **First Seen on Trending:** 2026-09-12
-- **Last Seen on Trending:** 2026-10-17
-- **Total Appearances:** 51 (Daily: 2, Weekly: 20, Monthly: 29)
-- **Latest Stars:** 34,402 | **Latest Forks:** 4,587
+- **Last Seen on Trending:** 2026-10-18
+- **Total Appearances:** 52 (Daily: 2, Weekly: 20, Monthly: 30)
+- **Latest Stars:** 34,519 | **Latest Forks:** 4,597
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-18 | month | #20 | 9,769 stars this month | 34,519 | 4,597 |
 | 2026-10-17 | month | #18 | 9,769 stars this month | 34,402 | 4,587 |
 | 2026-10-16 | month | #14 | 10,698 stars this month | 34,208 | 4,562 |
 | 2026-10-15 | month | #13 | 11,112 stars this month | 34,001 | 4,526 |

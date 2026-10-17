@@ -7,14 +7,15 @@
 - **Repository:** [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-06
-- **Last Seen on Trending:** 2026-10-17
-- **Total Appearances:** 11 (Daily: 3, Weekly: 6, Monthly: 2)
-- **Latest Stars:** 48,500 | **Latest Forks:** 16,631
+- **Last Seen on Trending:** 2026-10-18
+- **Total Appearances:** 12 (Daily: 4, Weekly: 6, Monthly: 2)
+- **Latest Stars:** 50,348 | **Latest Forks:** 16,925
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-18 | today | #2 | 1,397 stars today | 50,348 | 16,925 |
 | 2026-10-17 | today | #11 | 898 stars today | 48,500 | 16,631 |
 | 2026-09-03 | week | #20 | 4,172 stars this week | 40,285 | 13,678 |
 | 2026-09-02 | week | #14 | 4,841 stars this week | 39,817 | 13,504 |
