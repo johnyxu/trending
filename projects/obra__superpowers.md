@@ -7,14 +7,15 @@
 - **Repository:** [obra/superpowers](https://github.com/obra/superpowers)
 - **Primary Language:** `Shell`
 - **First Seen on Trending:** 2026-08-05
-- **Last Seen on Trending:** 2026-10-16
-- **Total Appearances:** 27 (Daily: 20, Weekly: 7, Monthly: 0)
-- **Latest Stars:** 299,878 | **Latest Forks:** 26,781
+- **Last Seen on Trending:** 2026-10-17
+- **Total Appearances:** 28 (Daily: 21, Weekly: 7, Monthly: 0)
+- **Latest Stars:** 300,677 | **Latest Forks:** 26,844
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-17 | today | #8 | 973 stars today | 300,677 | 26,844 |
 | 2026-10-16 | today | #6 | 582 stars today | 299,878 | 26,781 |
 | 2026-10-04 | today | #11 | 577 stars today | 294,913 | 26,354 |
 | 2026-10-03 | today | #3 | 556 stars today | 294,468 | 26,320 |

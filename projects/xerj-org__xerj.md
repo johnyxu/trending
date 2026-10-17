@@ -7,12 +7,13 @@
 - **Repository:** [xerj-org/xerj](https://github.com/xerj-org/xerj)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-10-16
-- **Last Seen on Trending:** 2026-10-16
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 5,620 | **Latest Forks:** 307
+- **Last Seen on Trending:** 2026-10-17
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 6,919 | **Latest Forks:** 352
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-17 | today | #13 | 1,648 stars today | 6,919 | 352 |
 | 2026-10-16 | today | #12 | 715 stars today | 5,620 | 307 |
