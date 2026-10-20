@@ -7,14 +7,16 @@
 - **Repository:** [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-22
-- **Last Seen on Trending:** 2026-10-19
-- **Total Appearances:** 13 (Daily: 9, Weekly: 4, Monthly: 0)
-- **Latest Stars:** 76,509 | **Latest Forks:** 9,047
+- **Last Seen on Trending:** 2026-10-20
+- **Total Appearances:** 15 (Daily: 10, Weekly: 5, Monthly: 0)
+- **Latest Stars:** 77,192 | **Latest Forks:** 9,104
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-20 | week | #14 | 2,543 stars this week | 77,192 | 9,104 |
+| 2026-10-20 | today | #5 | 564 stars today | 77,192 | 9,104 |
 | 2026-10-19 | today | #5 | 513 stars today | 76,509 | 9,047 |
 | 2026-10-18 | today | #12 | 406 stars today | 76,050 | 9,001 |
 | 2026-10-17 | today | #6 | 672 stars today | 75,627 | 8,966 |

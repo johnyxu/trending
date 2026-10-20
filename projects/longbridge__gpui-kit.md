@@ -7,14 +7,15 @@
 - **Repository:** [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-09-30
-- **Last Seen on Trending:** 2026-10-19
-- **Total Appearances:** 12 (Daily: 0, Weekly: 1, Monthly: 11)
-- **Latest Stars:** 18,125 | **Latest Forks:** 1,097
+- **Last Seen on Trending:** 2026-10-20
+- **Total Appearances:** 13 (Daily: 0, Weekly: 1, Monthly: 12)
+- **Latest Stars:** 18,333 | **Latest Forks:** 1,111
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-20 | month | #21 | 3,797 stars this month | 18,333 | 1,111 |
 | 2026-10-19 | month | #19 | 3,632 stars this month | 18,125 | 1,097 |
 | 2026-10-18 | month | #19 | 3,384 stars this month | 17,966 | 1,090 |
 | 2026-10-17 | month | #21 | 3,384 stars this month | 17,809 | 1,079 |

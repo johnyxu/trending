@@ -7,14 +7,15 @@
 - **Repository:** [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 - **Primary Language:** `C++`
 - **First Seen on Trending:** 2026-10-04
-- **Last Seen on Trending:** 2026-10-19
-- **Total Appearances:** 21 (Daily: 7, Weekly: 14, Monthly: 0)
-- **Latest Stars:** 43,186 | **Latest Forks:** 3,919
+- **Last Seen on Trending:** 2026-10-20
+- **Total Appearances:** 22 (Daily: 7, Weekly: 15, Monthly: 0)
+- **Latest Stars:** 44,506 | **Latest Forks:** 4,069
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-20 | week | #5 | 12,389 stars this week | 44,506 | 4,069 |
 | 2026-10-19 | week | #3 | 14,224 stars this week | 43,186 | 3,919 |
 | 2026-10-18 | week | #3 | 20,518 stars this week | 41,700 | 3,758 |
 | 2026-10-17 | week | #3 | 20,518 stars this week | 39,914 | 3,571 |
