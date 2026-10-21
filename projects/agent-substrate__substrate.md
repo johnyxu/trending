@@ -7,14 +7,15 @@
 - **Repository:** [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
 - **Primary Language:** `Go`
 - **First Seen on Trending:** 2026-08-21
-- **Last Seen on Trending:** 2026-10-20
-- **Total Appearances:** 21 (Daily: 3, Weekly: 1, Monthly: 17)
-- **Latest Stars:** 5,604 | **Latest Forks:** 607
+- **Last Seen on Trending:** 2026-10-21
+- **Total Appearances:** 22 (Daily: 3, Weekly: 1, Monthly: 18)
+- **Latest Stars:** 5,671 | **Latest Forks:** 613
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-21 | month | #16 | 3,659 stars this month | 5,671 | 613 |
 | 2026-10-20 | month | #9 | 3,612 stars this month | 5,604 | 607 |
 | 2026-10-19 | month | #7 | 3,533 stars this month | 5,502 | 601 |
 | 2026-10-18 | month | #7 | 3,417 stars this month | 5,414 | 592 |

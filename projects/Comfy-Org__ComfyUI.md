@@ -7,14 +7,15 @@
 - **Repository:** [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-09
-- **Last Seen on Trending:** 2026-10-20
-- **Total Appearances:** 11 (Daily: 5, Weekly: 6, Monthly: 0)
-- **Latest Stars:** 139,729 | **Latest Forks:** 16,585
+- **Last Seen on Trending:** 2026-10-21
+- **Total Appearances:** 12 (Daily: 6, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 140,752 | **Latest Forks:** 16,660
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-21 | today | #5 | 1,206 stars today | 140,752 | 16,660 |
 | 2026-10-20 | today | #4 | 1,011 stars today | 139,729 | 16,585 |
 | 2026-10-19 | today | #13 | 154 stars today | 138,595 | 16,503 |
 | 2026-08-24 | today | #17 | 179 stars today | 129,350 | 15,253 |

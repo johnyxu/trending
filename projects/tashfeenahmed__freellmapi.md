@@ -7,14 +7,15 @@
 - **Repository:** [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-25
-- **Last Seen on Trending:** 2026-10-20
-- **Total Appearances:** 36 (Daily: 3, Weekly: 9, Monthly: 24)
-- **Latest Stars:** 37,669 | **Latest Forks:** 5,083
+- **Last Seen on Trending:** 2026-10-21
+- **Total Appearances:** 37 (Daily: 3, Weekly: 9, Monthly: 25)
+- **Latest Stars:** 38,326 | **Latest Forks:** 5,165
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-21 | month | #12 | 10,683 stars this month | 38,326 | 5,165 |
 | 2026-10-20 | month | #10 | 10,330 stars this month | 37,669 | 5,083 |
 | 2026-10-19 | month | #11 | 10,063 stars this month | 37,080 | 5,012 |
 | 2026-10-18 | month | #12 | 9,724 stars this month | 36,626 | 4,954 |
