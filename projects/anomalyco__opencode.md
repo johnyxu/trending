@@ -7,14 +7,15 @@
 - **Repository:** [anomalyco/opencode](https://github.com/anomalyco/opencode)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-05
-- **Last Seen on Trending:** 2026-10-22
-- **Total Appearances:** 9 (Daily: 7, Weekly: 2, Monthly: 0)
-- **Latest Stars:** 219,679 | **Latest Forks:** 29,324
+- **Last Seen on Trending:** 2026-10-23
+- **Total Appearances:** 10 (Daily: 7, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 220,212 | **Latest Forks:** 29,430
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-23 | week | #6 | 6,750 stars this week | 220,212 | 29,430 |
 | 2026-10-22 | week | #13 | 6,545 stars this week | 219,679 | 29,324 |
 | 2026-10-21 | today | #8 | 1,240 stars today | 218,911 | 29,212 |
 | 2026-10-20 | today | #2 | 1,311 stars today | 217,820 | 29,114 |
