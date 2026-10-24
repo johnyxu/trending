@@ -7,14 +7,16 @@
 - **Repository:** [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 - **Primary Language:** `Java`
 - **First Seen on Trending:** 2026-08-29
-- **Last Seen on Trending:** 2026-10-23
-- **Total Appearances:** 33 (Daily: 7, Weekly: 9, Monthly: 17)
-- **Latest Stars:** 93,153 | **Latest Forks:** 10,451
+- **Last Seen on Trending:** 2026-10-24
+- **Total Appearances:** 35 (Daily: 7, Weekly: 10, Monthly: 18)
+- **Latest Stars:** 93,651 | **Latest Forks:** 10,517
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-24 | month | #10 | 14,248 stars this month | 93,651 | 10,517 |
+| 2026-10-24 | week | #14 | 4,221 stars this week | 93,651 | 10,517 |
 | 2026-10-23 | month | #9 | 13,804 stars this month | 93,153 | 10,451 |
 | 2026-10-23 | week | #12 | 4,892 stars this week | 93,153 | 10,451 |
 | 2026-10-22 | month | #8 | 13,471 stars this month | 92,634 | 10,380 |

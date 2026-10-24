@@ -7,14 +7,15 @@
 - **Repository:** [android/skills](https://github.com/android/skills)
 - **Primary Language:** `Kotlin`
 - **First Seen on Trending:** 2026-10-17
-- **Last Seen on Trending:** 2026-10-23
-- **Total Appearances:** 6 (Daily: 3, Weekly: 3, Monthly: 0)
-- **Latest Stars:** 9,246 | **Latest Forks:** 593
+- **Last Seen on Trending:** 2026-10-24
+- **Total Appearances:** 7 (Daily: 3, Weekly: 4, Monthly: 0)
+- **Latest Stars:** 9,424 | **Latest Forks:** 606
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-24 | week | #4 | 1,471 stars this week | 9,424 | 606 |
 | 2026-10-23 | week | #4 | 1,384 stars this week | 9,246 | 593 |
 | 2026-10-22 | week | #5 | 1,332 stars this week | 9,148 | 591 |
 | 2026-10-21 | week | #10 | 1,255 stars this week | 9,054 | 586 |

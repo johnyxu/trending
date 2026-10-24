@@ -7,14 +7,15 @@
 - **Repository:** [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-08-18
-- **Last Seen on Trending:** 2026-10-23
-- **Total Appearances:** 35 (Daily: 8, Weekly: 10, Monthly: 17)
-- **Latest Stars:** 12,776 | **Latest Forks:** 897
+- **Last Seen on Trending:** 2026-10-24
+- **Total Appearances:** 36 (Daily: 8, Weekly: 11, Monthly: 17)
+- **Latest Stars:** 13,042 | **Latest Forks:** 910
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-24 | week | #8 | 3,449 stars this week | 13,042 | 910 |
 | 2026-10-23 | week | #9 | 3,322 stars this week | 12,776 | 897 |
 | 2026-10-22 | week | #12 | 2,833 stars this week | 12,325 | 872 |
 | 2026-10-22 | today | #11 | 286 stars today | 12,325 | 872 |
