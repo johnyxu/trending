@@ -7,14 +7,15 @@
 - **Repository:** [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-10-21
-- **Last Seen on Trending:** 2026-10-23
-- **Total Appearances:** 3 (Daily: 3, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 132,936 | **Latest Forks:** 12,721
+- **Last Seen on Trending:** 2026-10-25
+- **Total Appearances:** 4 (Daily: 3, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 134,465 | **Latest Forks:** 12,837
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-25 | week | #13 | 6,868 stars this week | 134,465 | 12,837 |
 | 2026-10-23 | today | #5 | 1,408 stars today | 132,936 | 12,721 |
 | 2026-10-22 | today | #12 | 1,433 stars today | 131,631 | 12,638 |
 | 2026-10-21 | today | #7 | 802 stars today | 130,232 | 12,543 |
