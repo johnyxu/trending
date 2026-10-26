@@ -7,12 +7,13 @@
 - **Repository:** [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-24
-- **Last Seen on Trending:** 2026-10-24
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 6,855 | **Latest Forks:** 1,407
+- **Last Seen on Trending:** 2026-10-26
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 7,535 | **Latest Forks:** 1,542
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-26 | today | #7 | 199 stars today | 7,535 | 1,542 |
 | 2026-10-24 | today | #5 | 546 stars today | 6,855 | 1,407 |

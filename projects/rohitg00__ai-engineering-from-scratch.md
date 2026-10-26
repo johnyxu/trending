@@ -7,14 +7,15 @@
 - **Repository:** [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-25
-- **Last Seen on Trending:** 2026-10-25
-- **Total Appearances:** 40 (Daily: 11, Weekly: 16, Monthly: 13)
-- **Latest Stars:** 73,304 | **Latest Forks:** 12,856
+- **Last Seen on Trending:** 2026-10-26
+- **Total Appearances:** 41 (Daily: 11, Weekly: 16, Monthly: 14)
+- **Latest Stars:** 73,810 | **Latest Forks:** 12,940
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-26 | month | #18 | 16,847 stars this month | 73,810 | 12,940 |
 | 2026-10-25 | month | #17 | 17,406 stars this month | 73,304 | 12,856 |
 | 2026-10-24 | month | #14 | 17,479 stars this month | 72,809 | 12,788 |
 | 2026-10-23 | month | #14 | 17,489 stars this month | 72,482 | 12,745 |
