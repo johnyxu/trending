@@ -7,14 +7,15 @@
 - **Repository:** [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-30
-- **Last Seen on Trending:** 2026-10-04
-- **Total Appearances:** 5 (Daily: 0, Weekly: 0, Monthly: 5)
-- **Latest Stars:** 19,269 | **Latest Forks:** 1,684
+- **Last Seen on Trending:** 2026-10-27
+- **Total Appearances:** 6 (Daily: 1, Weekly: 0, Monthly: 5)
+- **Latest Stars:** 22,223 | **Latest Forks:** 1,938
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-27 | today | #7 | 214 stars today | 22,223 | 1,938 |
 | 2026-10-04 | month | #23 | 3,460 stars this month | 19,269 | 1,684 |
 | 2026-10-03 | month | #22 | 3,495 stars this month | 19,116 | 1,664 |
 | 2026-10-02 | month | #22 | 3,423 stars this month | 18,968 | 1,654 |

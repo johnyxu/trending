@@ -7,14 +7,15 @@
 - **Repository:** [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-30
-- **Last Seen on Trending:** 2026-10-26
-- **Total Appearances:** 9 (Daily: 2, Weekly: 1, Monthly: 6)
-- **Latest Stars:** 39,695 | **Latest Forks:** 3,429
+- **Last Seen on Trending:** 2026-10-27
+- **Total Appearances:** 10 (Daily: 2, Weekly: 1, Monthly: 7)
+- **Latest Stars:** 39,794 | **Latest Forks:** 3,432
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-27 | month | #19 | 4,054 stars this month | 39,794 | 3,432 |
 | 2026-10-26 | month | #19 | 3,964 stars this month | 39,695 | 3,429 |
 | 2026-10-25 | month | #20 | 3,908 stars this month | 39,629 | 3,426 |
 | 2026-10-24 | month | #19 | 3,867 stars this month | 39,569 | 3,427 |
