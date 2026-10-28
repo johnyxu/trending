@@ -7,14 +7,15 @@
 - **Repository:** [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-09
-- **Last Seen on Trending:** 2026-10-27
-- **Total Appearances:** 11 (Daily: 8, Weekly: 3, Monthly: 0)
-- **Latest Stars:** 116,138 | **Latest Forks:** 22,283
+- **Last Seen on Trending:** 2026-10-28
+- **Total Appearances:** 12 (Daily: 8, Weekly: 4, Monthly: 0)
+- **Latest Stars:** 117,336 | **Latest Forks:** 22,473
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-28 | week | #5 | 4,882 stars this week | 117,336 | 22,473 |
 | 2026-10-27 | week | #10 | 3,437 stars this week | 116,138 | 22,283 |
 | 2026-10-27 | today | #2 | 1,395 stars today | 116,138 | 22,283 |
 | 2026-10-26 | today | #6 | 381 stars today | 114,580 | 22,128 |
