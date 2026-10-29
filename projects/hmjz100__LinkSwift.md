@@ -7,12 +7,13 @@
 - **Repository:** [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-10-17
-- **Last Seen on Trending:** 2026-10-17
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 23,667 | **Latest Forks:** 1,435
+- **Last Seen on Trending:** 2026-10-29
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 34,838 | **Latest Forks:** 2,472
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-29 | today | #11 | 1,616 stars today | 34,838 | 2,472 |
 | 2026-10-17 | today | #12 | 538 stars today | 23,667 | 1,435 |

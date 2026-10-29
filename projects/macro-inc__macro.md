@@ -7,14 +7,15 @@
 - **Repository:** [macro-inc/macro](https://github.com/macro-inc/macro)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-08-13
-- **Last Seen on Trending:** 2026-08-21
-- **Total Appearances:** 9 (Daily: 3, Weekly: 6, Monthly: 0)
-- **Latest Stars:** 3,869 | **Latest Forks:** 369
+- **Last Seen on Trending:** 2026-10-29
+- **Total Appearances:** 10 (Daily: 4, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 5,440 | **Latest Forks:** 519
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-29 | today | #5 | 117 stars today | 5,440 | 519 |
 | 2026-08-21 | week | #13 | 2,557 stars this week | 3,869 | 369 |
 | 2026-08-20 | week | #7 | 2,627 stars this week | 3,772 | 365 |
 | 2026-08-19 | week | #6 | 2,724 stars this week | 3,664 | 360 |

@@ -1,20 +1,23 @@
 # [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
-> The design language that makes your AI harness better at design.
+> The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 ## 📊 Project Metadata
 
 - **Repository:** [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-07-31
-- **Last Seen on Trending:** 2026-10-28
-- **Total Appearances:** 36 (Daily: 11, Weekly: 7, Monthly: 18)
-- **Latest Stars:** 90,549 | **Latest Forks:** 5,376
+- **Last Seen on Trending:** 2026-10-29
+- **Total Appearances:** 39 (Daily: 12, Weekly: 8, Monthly: 19)
+- **Latest Stars:** 92,774 | **Latest Forks:** 5,482
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-29 | month | #5 | 19,821 stars this month | 92,774 | 5,482 |
+| 2026-10-29 | week | #6 | 7,283 stars this week | 92,774 | 5,482 |
+| 2026-10-29 | today | #7 | 1,472 stars today | 92,774 | 5,482 |
 | 2026-10-28 | month | #5 | 18,683 stars this month | 90,549 | 5,376 |
 | 2026-10-28 | today | #5 | 1,449 stars today | 90,549 | 5,376 |
 | 2026-10-27 | month | #7 | 17,522 stars this month | 89,244 | 5,313 |
