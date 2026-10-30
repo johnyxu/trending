@@ -7,14 +7,15 @@
 - **Repository:** [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-10-29
-- **Total Appearances:** 60 (Daily: 5, Weekly: 14, Monthly: 41)
-- **Latest Stars:** 31,184 | **Latest Forks:** 8,351
+- **Last Seen on Trending:** 2026-10-30
+- **Total Appearances:** 61 (Daily: 5, Weekly: 14, Monthly: 42)
+- **Latest Stars:** 31,923 | **Latest Forks:** 8,489
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-30 | month | #13 | 7,708 stars this month | 31,923 | 8,489 |
 | 2026-10-29 | month | #13 | 7,410 stars this month | 31,184 | 8,351 |
 | 2026-10-28 | month | #14 | 7,188 stars this month | 30,849 | 8,255 |
 | 2026-10-28 | week | #12 | 1,988 stars this week | 30,849 | 8,255 |
