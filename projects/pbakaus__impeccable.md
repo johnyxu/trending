@@ -7,14 +7,17 @@
 - **Repository:** [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-07-31
-- **Last Seen on Trending:** 2026-10-30
-- **Total Appearances:** 42 (Daily: 13, Weekly: 9, Monthly: 20)
-- **Latest Stars:** 95,437 | **Latest Forks:** 5,627
+- **Last Seen on Trending:** 2026-10-31
+- **Total Appearances:** 45 (Daily: 14, Weekly: 10, Monthly: 21)
+- **Latest Stars:** 97,098 | **Latest Forks:** 5,717
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-31 | month | #4 | 24,624 stars this month | 97,098 | 5,717 |
+| 2026-10-31 | week | #3 | 11,323 stars this week | 97,098 | 5,717 |
+| 2026-10-31 | today | #3 | 2,300 stars today | 97,098 | 5,717 |
 | 2026-10-30 | month | #5 | 22,473 stars this month | 95,437 | 5,627 |
 | 2026-10-30 | week | #4 | 9,713 stars this week | 95,437 | 5,627 |
 | 2026-10-30 | today | #3 | 2,870 stars today | 95,436 | 5,627 |

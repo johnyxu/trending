@@ -7,12 +7,13 @@
 - **Repository:** [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-30
-- **Last Seen on Trending:** 2026-10-30
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 8,183 | **Latest Forks:** 1,048
+- **Last Seen on Trending:** 2026-10-31
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 8,809 | **Latest Forks:** 1,110
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-31 | today | #4 | 706 stars today | 8,809 | 1,110 |
 | 2026-10-30 | today | #9 | 247 stars today | 8,183 | 1,048 |
