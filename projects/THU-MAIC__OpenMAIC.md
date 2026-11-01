@@ -7,14 +7,15 @@
 - **Repository:** [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-30
-- **Last Seen on Trending:** 2026-10-03
-- **Total Appearances:** 54 (Daily: 5, Weekly: 17, Monthly: 32)
-- **Latest Stars:** 39,829 | **Latest Forks:** 6,163
+- **Last Seen on Trending:** 2026-11-01
+- **Total Appearances:** 55 (Daily: 6, Weekly: 17, Monthly: 32)
+- **Latest Stars:** 42,189 | **Latest Forks:** 6,511
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-01 | today | #12 | 116 stars today | 42,189 | 6,511 |
 | 2026-10-03 | month | #21 | 9,734 stars this month | 39,829 | 6,163 |
 | 2026-10-02 | month | #18 | 11,062 stars this month | 39,764 | 6,165 |
 | 2026-10-01 | month | #14 | 13,868 stars this month | 39,682 | 6,151 |

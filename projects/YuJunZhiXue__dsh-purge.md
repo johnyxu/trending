@@ -7,12 +7,13 @@
 - **Repository:** [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-10-20
-- **Last Seen on Trending:** 2026-10-20
-- **Total Appearances:** 1 (Daily: 0, Weekly: 1, Monthly: 0)
-- **Latest Stars:** 8,909 | **Latest Forks:** 1,527
+- **Last Seen on Trending:** 2026-11-01
+- **Total Appearances:** 2 (Daily: 0, Weekly: 2, Monthly: 0)
+- **Latest Stars:** 14,578 | **Latest Forks:** 3,375
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-01 | week | #14 | 6,641 stars this week | 14,578 | 3,375 |
 | 2026-10-20 | week | #13 | 2,933 stars this week | 8,909 | 1,527 |
