@@ -7,14 +7,15 @@
 - **Repository:** [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-26
-- **Last Seen on Trending:** 2026-10-31
-- **Total Appearances:** 6 (Daily: 6, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 6,593 | **Latest Forks:** 358
+- **Last Seen on Trending:** 2026-11-02
+- **Total Appearances:** 7 (Daily: 6, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 6,975 | **Latest Forks:** 392
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-02 | week | #7 | 5,760 stars this week | 6,975 | 392 |
 | 2026-10-31 | today | #12 | 722 stars today | 6,593 | 358 |
 | 2026-10-30 | today | #4 | 1,117 stars today | 6,039 | 324 |
 | 2026-10-29 | today | #1 | 1,068 stars today | 5,109 | 263 |

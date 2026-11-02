@@ -7,14 +7,15 @@
 - **Repository:** [public-apis/public-apis](https://github.com/public-apis/public-apis)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-16
-- **Last Seen on Trending:** 2026-09-15
-- **Total Appearances:** 25 (Daily: 3, Weekly: 9, Monthly: 13)
-- **Latest Stars:** 480,189 | **Latest Forks:** 52,966
+- **Last Seen on Trending:** 2026-11-02
+- **Total Appearances:** 26 (Daily: 4, Weekly: 9, Monthly: 13)
+- **Latest Stars:** 494,636 | **Latest Forks:** 55,207
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-02 | today | #6 | 324 stars today | 494,636 | 55,207 |
 | 2026-09-15 | month | #18 | 23,551 stars this month | 480,189 | 52,966 |
 | 2026-09-13 | month | #19 | 24,522 stars this month | 479,409 | 52,892 |
 | 2026-09-12 | month | #21 | 24,522 stars this month | 479,022 | 52,854 |
