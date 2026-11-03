@@ -1,20 +1,21 @@
 # [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
-> Fully automatic censorship removal for language models
+> Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 
 ## 📊 Project Metadata
 
 - **Repository:** [p-e-w/heretic](https://github.com/p-e-w/heretic)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-30
-- **Last Seen on Trending:** 2026-09-06
-- **Total Appearances:** 9 (Daily: 3, Weekly: 6, Monthly: 0)
-- **Latest Stars:** 30,592 | **Latest Forks:** 3,382
+- **Last Seen on Trending:** 2026-11-03
+- **Total Appearances:** 10 (Daily: 4, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 38,173 | **Latest Forks:** 4,328
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-03 | today | #15 | 420 stars today | 38,173 | 4,328 |
 | 2026-09-06 | week | #16 | 2,065 stars this week | 30,592 | 3,382 |
 | 2026-09-05 | week | #11 | 2,146 stars this week | 30,453 | 3,369 |
 | 2026-09-04 | week | #11 | 2,045 stars this week | 30,306 | 3,354 |

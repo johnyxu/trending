@@ -7,14 +7,15 @@
 - **Repository:** [anthropics/skills](https://github.com/anthropics/skills)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-12
-- **Last Seen on Trending:** 2026-11-02
-- **Total Appearances:** 12 (Daily: 7, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 186,374 | **Latest Forks:** 22,021
+- **Last Seen on Trending:** 2026-11-03
+- **Total Appearances:** 13 (Daily: 7, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 186,814 | **Latest Forks:** 22,063
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-03 | week | #11 | 2,828 stars this week | 186,814 | 22,063 |
 | 2026-11-02 | week | #13 | 2,600 stars this week | 186,374 | 22,021 |
 | 2026-11-01 | week | #12 | 2,389 stars this week | 185,896 | 21,945 |
 | 2026-10-31 | week | #12 | 1,888 stars this week | 185,335 | 21,900 |

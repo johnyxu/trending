@@ -7,14 +7,15 @@
 - **Repository:** [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-09-13
-- **Last Seen on Trending:** 2026-10-10
-- **Total Appearances:** 21 (Daily: 1, Weekly: 9, Monthly: 11)
-- **Latest Stars:** 9,134 | **Latest Forks:** 328
+- **Last Seen on Trending:** 2026-11-03
+- **Total Appearances:** 22 (Daily: 2, Weekly: 9, Monthly: 11)
+- **Latest Stars:** 10,094 | **Latest Forks:** 366
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-03 | today | #12 | 77 stars today | 10,094 | 366 |
 | 2026-10-10 | month | #22 | 2,301 stars this month | 9,134 | 328 |
 | 2026-10-09 | month | #24 | 2,240 stars this month | 9,044 | 326 |
 | 2026-10-08 | month | #24 | 2,196 stars this month | 8,969 | 323 |
