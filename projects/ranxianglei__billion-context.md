@@ -7,14 +7,15 @@
 - **Repository:** [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-11
-- **Last Seen on Trending:** 2026-11-03
-- **Total Appearances:** 6 (Daily: 0, Weekly: 5, Monthly: 1)
-- **Latest Stars:** 3,739 | **Latest Forks:** 311
+- **Last Seen on Trending:** 2026-11-04
+- **Total Appearances:** 7 (Daily: 0, Weekly: 5, Monthly: 2)
+- **Latest Stars:** 3,916 | **Latest Forks:** 324
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-04 | month | #8 | 3,363 stars this month | 3,916 | 324 |
 | 2026-11-03 | month | #8 | 3,213 stars this month | 3,739 | 311 |
 | 2026-10-18 | week | #10 | 779 stars this week | 1,716 | 137 |
 | 2026-10-17 | week | #9 | 779 stars this week | 1,542 | 122 |

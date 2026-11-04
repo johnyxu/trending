@@ -7,14 +7,15 @@
 - **Repository:** [p-e-w/heretic](https://github.com/p-e-w/heretic)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-30
-- **Last Seen on Trending:** 2026-11-03
-- **Total Appearances:** 10 (Daily: 4, Weekly: 6, Monthly: 0)
-- **Latest Stars:** 38,173 | **Latest Forks:** 4,328
+- **Last Seen on Trending:** 2026-11-04
+- **Total Appearances:** 11 (Daily: 5, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 38,843 | **Latest Forks:** 4,387
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-04 | today | #6 | 701 stars today | 38,843 | 4,387 |
 | 2026-11-03 | today | #15 | 420 stars today | 38,173 | 4,328 |
 | 2026-09-06 | week | #16 | 2,065 stars this week | 30,592 | 3,382 |
 | 2026-09-05 | week | #11 | 2,146 stars this week | 30,453 | 3,369 |
