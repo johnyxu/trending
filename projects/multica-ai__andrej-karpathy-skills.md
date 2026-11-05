@@ -7,14 +7,15 @@
 - **Repository:** [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 - **Primary Language:** `Not Specified`
 - **First Seen on Trending:** 2026-08-23
-- **Last Seen on Trending:** 2026-11-04
-- **Total Appearances:** 16 (Daily: 6, Weekly: 10, Monthly: 0)
-- **Latest Stars:** 229,122 | **Latest Forks:** 22,835
+- **Last Seen on Trending:** 2026-11-05
+- **Total Appearances:** 17 (Daily: 6, Weekly: 11, Monthly: 0)
+- **Latest Stars:** 229,529 | **Latest Forks:** 22,855
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-05 | week | #11 | 3,808 stars this week | 229,529 | 22,855 |
 | 2026-11-04 | week | #10 | 3,921 stars this week | 229,122 | 22,835 |
 | 2026-11-03 | week | #10 | 4,397 stars this week | 228,595 | 22,790 |
 | 2026-11-02 | week | #9 | 4,459 stars this week | 228,009 | 22,742 |
