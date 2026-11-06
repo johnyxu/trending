@@ -7,12 +7,13 @@
 - **Repository:** [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-11-04
-- **Last Seen on Trending:** 2026-11-04
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 16,486 | **Latest Forks:** 2,852
+- **Last Seen on Trending:** 2026-11-06
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 17,633 | **Latest Forks:** 2,954
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-06 | today | #4 | 240 stars today | 17,633 | 2,954 |
 | 2026-11-04 | today | #9 | 228 stars today | 16,486 | 2,852 |

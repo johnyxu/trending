@@ -7,14 +7,15 @@
 - **Repository:** [google/skills](https://github.com/google/skills)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-08
-- **Last Seen on Trending:** 2026-10-03
-- **Total Appearances:** 16 (Daily: 4, Weekly: 8, Monthly: 4)
-- **Latest Stars:** 20,749 | **Latest Forks:** 1,721
+- **Last Seen on Trending:** 2026-11-06
+- **Total Appearances:** 17 (Daily: 5, Weekly: 8, Monthly: 4)
+- **Latest Stars:** 22,407 | **Latest Forks:** 1,893
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-06 | today | #8 | 211 stars today | 22,407 | 1,893 |
 | 2026-10-03 | today | #11 | 39 stars today | 20,749 | 1,721 |
 | 2026-09-05 | month | #22 | 4,004 stars this month | 19,503 | 1,564 |
 | 2026-09-04 | month | #18 | 3,900 stars this month | 19,397 | 1,560 |
