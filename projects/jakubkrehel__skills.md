@@ -7,14 +7,15 @@
 - **Repository:** [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
 - **Primary Language:** `Markdown`
 - **First Seen on Trending:** 2026-09-12
-- **Last Seen on Trending:** 2026-11-06
-- **Total Appearances:** 10 (Daily: 0, Weekly: 10, Monthly: 0)
-- **Latest Stars:** 11,042 | **Latest Forks:** 426
+- **Last Seen on Trending:** 2026-11-07
+- **Total Appearances:** 11 (Daily: 0, Weekly: 11, Monthly: 0)
+- **Latest Stars:** 11,296 | **Latest Forks:** 438
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-07 | week | #12 | 1,921 stars this week | 11,296 | 438 |
 | 2026-11-06 | week | #11 | 1,840 stars this week | 11,042 | 426 |
 | 2026-11-05 | week | #8 | 1,865 stars this week | 10,824 | 417 |
 | 2026-11-04 | week | #9 | 1,761 stars this week | 10,627 | 409 |
