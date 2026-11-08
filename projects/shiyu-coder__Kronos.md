@@ -7,14 +7,15 @@
 - **Repository:** [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-11-07
-- **Total Appearances:** 13 (Daily: 8, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 47,074 | **Latest Forks:** 7,781
+- **Last Seen on Trending:** 2026-11-08
+- **Total Appearances:** 14 (Daily: 8, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 47,250 | **Latest Forks:** 7,811
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-08 | week | #19 | 2,937 stars this week | 47,250 | 7,811 |
 | 2026-11-07 | week | #18 | 2,984 stars this week | 47,074 | 7,781 |
 | 2026-11-04 | today | #12 | 503 stars today | 46,551 | 7,665 |
 | 2026-11-03 | today | #8 | 857 stars today | 46,056 | 7,592 |

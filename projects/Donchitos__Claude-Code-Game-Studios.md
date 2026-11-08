@@ -7,14 +7,15 @@
 - **Repository:** [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 - **Primary Language:** `Shell`
 - **First Seen on Trending:** 2026-10-30
-- **Last Seen on Trending:** 2026-11-07
-- **Total Appearances:** 6 (Daily: 5, Weekly: 1, Monthly: 0)
-- **Latest Stars:** 36,138 | **Latest Forks:** 4,757
+- **Last Seen on Trending:** 2026-11-08
+- **Total Appearances:** 7 (Daily: 5, Weekly: 2, Monthly: 0)
+- **Latest Stars:** 36,596 | **Latest Forks:** 4,832
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-08 | week | #3 | 5,719 stars this week | 36,596 | 4,832 |
 | 2026-11-07 | week | #2 | 6,018 stars this week | 36,138 | 4,757 |
 | 2026-11-04 | today | #13 | 1,182 stars today | 34,714 | 4,598 |
 | 2026-11-03 | today | #5 | 1,379 stars today | 33,704 | 4,528 |
