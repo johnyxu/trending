@@ -7,14 +7,15 @@
 - **Repository:** [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 - **Primary Language:** `C++`
 - **First Seen on Trending:** 2026-11-02
-- **Last Seen on Trending:** 2026-11-08
-- **Total Appearances:** 7 (Daily: 2, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 40,498 | **Latest Forks:** 2,165
+- **Last Seen on Trending:** 2026-11-09
+- **Total Appearances:** 8 (Daily: 2, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 40,568 | **Latest Forks:** 2,168
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-09 | week | #16 | 1,465 stars this week | 40,568 | 2,168 |
 | 2026-11-08 | week | #14 | 1,436 stars this week | 40,498 | 2,165 |
 | 2026-11-07 | week | #11 | 1,413 stars this week | 40,448 | 2,167 |
 | 2026-11-06 | week | #10 | 1,371 stars this week | 40,372 | 2,169 |

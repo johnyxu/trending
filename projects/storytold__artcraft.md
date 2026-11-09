@@ -7,14 +7,15 @@
 - **Repository:** [storytold/artcraft](https://github.com/storytold/artcraft)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-10-09
-- **Last Seen on Trending:** 2026-11-08
-- **Total Appearances:** 13 (Daily: 6, Weekly: 5, Monthly: 2)
-- **Latest Stars:** 39,560 | **Latest Forks:** 6,220
+- **Last Seen on Trending:** 2026-11-09
+- **Total Appearances:** 14 (Daily: 6, Weekly: 5, Monthly: 3)
+- **Latest Stars:** 39,926 | **Latest Forks:** 6,254
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-09 | month | #4 | 33,780 stars this month | 39,926 | 6,254 |
 | 2026-11-08 | month | #3 | 35,633 stars this month | 39,560 | 6,220 |
 | 2026-11-07 | month | #2 | 36,600 stars this month | 39,272 | 6,192 |
 | 2026-10-21 | week | #14 | 10,287 stars this week | 34,521 | 5,467 |
