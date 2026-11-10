@@ -7,13 +7,14 @@
 - **Repository:** [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-10
-- **Last Seen on Trending:** 2026-08-12
-- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 62,089 | **Latest Forks:** 52,418
+- **Last Seen on Trending:** 2026-11-10
+- **Total Appearances:** 3 (Daily: 3, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 69,081 | **Latest Forks:** 56,443
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-10 | today | #9 | 506 stars today | 69,081 | 56,443 |
 | 2026-08-12 | today | #5 | 317 stars today | 62,089 | 52,418 |
 | 2026-08-10 | today | #7 | 287 stars today | 61,143 | 51,986 |
