@@ -7,14 +7,15 @@
 - **Repository:** [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-30
-- **Last Seen on Trending:** 2026-11-11
-- **Total Appearances:** 13 (Daily: 7, Weekly: 6, Monthly: 0)
-- **Latest Stars:** 20,668 | **Latest Forks:** 2,864
+- **Last Seen on Trending:** 2026-11-12
+- **Total Appearances:** 14 (Daily: 7, Weekly: 7, Monthly: 0)
+- **Latest Stars:** 21,288 | **Latest Forks:** 2,970
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-12 | week | #4 | 9,257 stars this week | 21,288 | 2,970 |
 | 2026-11-11 | week | #4 | 8,951 stars this week | 20,668 | 2,864 |
 | 2026-11-10 | week | #5 | 8,325 stars this week | 19,914 | 2,715 |
 | 2026-11-10 | today | #11 | 1,587 stars today | 19,914 | 2,715 |

@@ -7,14 +7,15 @@
 - **Repository:** [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-07-31
-- **Last Seen on Trending:** 2026-11-11
-- **Total Appearances:** 35 (Daily: 6, Weekly: 2, Monthly: 27)
-- **Latest Stars:** 58,011 | **Latest Forks:** 7,062
+- **Last Seen on Trending:** 2026-11-12
+- **Total Appearances:** 36 (Daily: 6, Weekly: 2, Monthly: 28)
+- **Latest Stars:** 58,366 | **Latest Forks:** 7,097
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-12 | month | #8 | 17,406 stars this month | 58,366 | 7,097 |
 | 2026-11-11 | month | #7 | 17,107 stars this month | 58,011 | 7,062 |
 | 2026-11-10 | month | #8 | 16,710 stars this month | 57,681 | 7,034 |
 | 2026-11-09 | month | #11 | 16,065 stars this month | 57,034 | 6,956 |

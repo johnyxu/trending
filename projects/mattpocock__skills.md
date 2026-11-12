@@ -7,14 +7,15 @@
 - **Repository:** [mattpocock/skills](https://github.com/mattpocock/skills)
 - **Primary Language:** `Shell`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-11-11
-- **Total Appearances:** 73 (Daily: 32, Weekly: 22, Monthly: 19)
-- **Latest Stars:** 320,976 | **Latest Forks:** 26,911
+- **Last Seen on Trending:** 2026-11-12
+- **Total Appearances:** 74 (Daily: 32, Weekly: 23, Monthly: 19)
+- **Latest Stars:** 322,119 | **Latest Forks:** 27,014
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-12 | week | #7 | 9,575 stars this week | 322,119 | 27,014 |
 | 2026-11-11 | week | #8 | 9,872 stars this week | 320,976 | 26,911 |
 | 2026-11-11 | today | #12 | 1,225 stars today | 320,976 | 26,911 |
 | 2026-11-10 | week | #14 | 9,800 stars this week | 319,904 | 26,783 |

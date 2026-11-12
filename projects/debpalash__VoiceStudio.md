@@ -7,14 +7,15 @@
 - **Repository:** [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-03
-- **Last Seen on Trending:** 2026-11-11
-- **Total Appearances:** 94 (Daily: 18, Weekly: 18, Monthly: 58)
-- **Latest Stars:** 107,320 | **Latest Forks:** 11,893
+- **Last Seen on Trending:** 2026-11-12
+- **Total Appearances:** 95 (Daily: 18, Weekly: 18, Monthly: 59)
+- **Latest Stars:** 108,418 | **Latest Forks:** 12,011
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-12 | month | #9 | 50,619 stars this month | 108,418 | 12,011 |
 | 2026-11-11 | month | #8 | 50,753 stars this month | 107,320 | 11,893 |
 | 2026-11-10 | month | #7 | 50,585 stars this month | 106,316 | 11,801 |
 | 2026-11-09 | month | #6 | 50,169 stars this month | 105,047 | 11,676 |
