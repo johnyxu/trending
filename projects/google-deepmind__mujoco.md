@@ -7,14 +7,15 @@
 - **Repository:** [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
 - **Primary Language:** `C++`
 - **First Seen on Trending:** 2026-11-09
-- **Last Seen on Trending:** 2026-11-12
-- **Total Appearances:** 4 (Daily: 3, Weekly: 1, Monthly: 0)
-- **Latest Stars:** 17,658 | **Latest Forks:** 2,172
+- **Last Seen on Trending:** 2026-11-13
+- **Total Appearances:** 5 (Daily: 3, Weekly: 2, Monthly: 0)
+- **Latest Stars:** 17,776 | **Latest Forks:** 2,180
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-13 | week | #9 | 1,671 stars this week | 17,776 | 2,180 |
 | 2026-11-12 | week | #12 | 1,535 stars this week | 17,658 | 2,172 |
 | 2026-11-11 | today | #5 | 456 stars today | 17,383 | 2,148 |
 | 2026-11-10 | today | #4 | 574 stars today | 17,000 | 2,000 |

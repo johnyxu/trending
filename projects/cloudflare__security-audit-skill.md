@@ -7,14 +7,16 @@
 - **Repository:** [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-09-17
-- **Last Seen on Trending:** 2026-11-12
-- **Total Appearances:** 74 (Daily: 14, Weekly: 22, Monthly: 38)
-- **Latest Stars:** 70,431 | **Latest Forks:** 4,668
+- **Last Seen on Trending:** 2026-11-13
+- **Total Appearances:** 76 (Daily: 14, Weekly: 23, Monthly: 39)
+- **Latest Stars:** 71,260 | **Latest Forks:** 4,739
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-13 | month | #3 | 42,602 stars this month | 71,260 | 4,739 |
+| 2026-11-13 | week | #5 | 10,700 stars this week | 71,260 | 4,739 |
 | 2026-11-12 | month | #3 | 42,138 stars this month | 70,431 | 4,668 |
 | 2026-11-12 | week | #6 | 11,507 stars this week | 70,431 | 4,668 |
 | 2026-11-11 | month | #3 | 41,811 stars this month | 69,383 | 4,583 |

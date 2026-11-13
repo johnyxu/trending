@@ -7,14 +7,15 @@
 - **Repository:** [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-11-03
-- **Last Seen on Trending:** 2026-11-12
-- **Total Appearances:** 10 (Daily: 4, Weekly: 6, Monthly: 0)
-- **Latest Stars:** 101,690 | **Latest Forks:** 10,596
+- **Last Seen on Trending:** 2026-11-13
+- **Total Appearances:** 11 (Daily: 4, Weekly: 7, Monthly: 0)
+- **Latest Stars:** 102,185 | **Latest Forks:** 10,639
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-13 | week | #11 | 4,743 stars this week | 102,185 | 10,639 |
 | 2026-11-12 | week | #8 | 5,814 stars this week | 101,690 | 10,596 |
 | 2026-11-11 | week | #12 | 7,291 stars this week | 101,164 | 10,561 |
 | 2026-11-10 | week | #10 | 8,226 stars this week | 100,651 | 10,514 |

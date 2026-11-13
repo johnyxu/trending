@@ -7,14 +7,15 @@
 - **Repository:** [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - **Primary Language:** `CSS`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-11-12
-- **Total Appearances:** 50 (Daily: 5, Weekly: 10, Monthly: 35)
-- **Latest Stars:** 53,469 | **Latest Forks:** 2,847
+- **Last Seen on Trending:** 2026-11-13
+- **Total Appearances:** 51 (Daily: 5, Weekly: 10, Monthly: 36)
+- **Latest Stars:** 54,049 | **Latest Forks:** 2,885
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-13 | month | #2 | 24,106 stars this month | 54,049 | 2,885 |
 | 2026-11-12 | month | #2 | 23,478 stars this month | 53,469 | 2,847 |
 | 2026-11-11 | month | #2 | 22,624 stars this month | 52,651 | 2,801 |
 | 2026-11-10 | month | #2 | 21,862 stars this month | 51,895 | 2,763 |
