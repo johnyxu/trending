@@ -7,14 +7,15 @@
 - **Repository:** [tailscale/tailcat](https://github.com/tailscale/tailcat)
 - **Primary Language:** `Go`
 - **First Seen on Trending:** 2026-08-29
-- **Last Seen on Trending:** 2026-09-08
-- **Total Appearances:** 5 (Daily: 2, Weekly: 3, Monthly: 0)
-- **Latest Stars:** 6,714 | **Latest Forks:** 263
+- **Last Seen on Trending:** 2026-11-14
+- **Total Appearances:** 6 (Daily: 3, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 9,484 | **Latest Forks:** 432
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-14 | today | #10 | 256 stars today | 9,484 | 432 |
 | 2026-09-08 | week | #19 | 2,091 stars this week | 6,714 | 263 |
 | 2026-09-07 | week | #12 | 3,187 stars this week | 6,532 | 249 |
 | 2026-09-06 | week | #6 | 3,762 stars this week | 6,364 | 244 |

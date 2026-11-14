@@ -7,14 +7,15 @@
 - **Repository:** [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-11-03
-- **Last Seen on Trending:** 2026-11-13
-- **Total Appearances:** 8 (Daily: 4, Weekly: 4, Monthly: 0)
-- **Latest Stars:** 22,773 | **Latest Forks:** 1,687
+- **Last Seen on Trending:** 2026-11-14
+- **Total Appearances:** 9 (Daily: 4, Weekly: 5, Monthly: 0)
+- **Latest Stars:** 23,326 | **Latest Forks:** 1,727
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-14 | week | #14 | 5,408 stars this week | 23,326 | 1,727 |
 | 2026-11-13 | week | #6 | 6,414 stars this week | 22,773 | 1,687 |
 | 2026-11-12 | week | #3 | 7,772 stars this week | 22,172 | 1,653 |
 | 2026-11-11 | week | #2 | 9,502 stars this week | 21,422 | 1,594 |

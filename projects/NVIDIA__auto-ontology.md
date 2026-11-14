@@ -7,14 +7,15 @@
 - **Repository:** [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-11-05
-- **Last Seen on Trending:** 2026-11-13
-- **Total Appearances:** 8 (Daily: 3, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 12,274 | **Latest Forks:** 1,012
+- **Last Seen on Trending:** 2026-11-14
+- **Total Appearances:** 9 (Daily: 3, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 12,572 | **Latest Forks:** 1,032
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-14 | week | #7 | 4,108 stars this week | 12,572 | 1,032 |
 | 2026-11-13 | week | #4 | 5,802 stars this week | 12,274 | 1,012 |
 | 2026-11-12 | week | #1 | 7,947 stars this week | 11,887 | 974 |
 | 2026-11-11 | week | #1 | 9,621 stars this week | 11,475 | 943 |
