@@ -7,14 +7,15 @@
 - **Repository:** [morluto/rea](https://github.com/morluto/rea)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-10-07
-- **Last Seen on Trending:** 2026-11-14
-- **Total Appearances:** 34 (Daily: 10, Weekly: 12, Monthly: 12)
-- **Latest Stars:** 457,780 | **Latest Forks:** 112,328
+- **Last Seen on Trending:** 2026-11-15
+- **Total Appearances:** 35 (Daily: 10, Weekly: 12, Monthly: 13)
+- **Latest Stars:** 459,964 | **Latest Forks:** 112,729
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-15 | month | #3 | 236,618 stars this month | 459,964 | 112,729 |
 | 2026-11-14 | month | #2 | 271,084 stars this month | 457,780 | 112,328 |
 | 2026-11-13 | month | #1 | 325,178 stars this month | 455,470 | 111,855 |
 | 2026-11-12 | month | #1 | 366,818 stars this month | 452,993 | 111,372 |

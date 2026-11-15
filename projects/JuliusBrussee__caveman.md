@@ -7,14 +7,15 @@
 - **Repository:** [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 - **Primary Language:** `Go`
 - **First Seen on Trending:** 2026-08-21
-- **Last Seen on Trending:** 2026-10-16
-- **Total Appearances:** 7 (Daily: 7, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 112,527 | **Latest Forks:** 6,519
+- **Last Seen on Trending:** 2026-11-15
+- **Total Appearances:** 8 (Daily: 8, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 120,093 | **Latest Forks:** 7,001
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-15 | today | #10 | 227 stars today | 120,093 | 7,001 |
 | 2026-10-16 | today | #4 | 433 stars today | 112,527 | 6,519 |
 | 2026-10-04 | today | #5 | 507 stars today | 109,533 | 6,334 |
 | 2026-10-03 | today | #2 | 209 stars today | 109,105 | 6,314 |

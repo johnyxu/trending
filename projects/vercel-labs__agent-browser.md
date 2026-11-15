@@ -7,14 +7,16 @@
 - **Repository:** [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 - **Primary Language:** `Rust`
 - **First Seen on Trending:** 2026-11-06
-- **Last Seen on Trending:** 2026-11-14
-- **Total Appearances:** 14 (Daily: 6, Weekly: 7, Monthly: 1)
-- **Latest Stars:** 50,756 | **Latest Forks:** 3,528
+- **Last Seen on Trending:** 2026-11-15
+- **Total Appearances:** 16 (Daily: 6, Weekly: 8, Monthly: 2)
+- **Latest Stars:** 51,227 | **Latest Forks:** 3,578
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-15 | month | #15 | 7,152 stars this month | 51,227 | 3,578 |
+| 2026-11-15 | week | #4 | 4,601 stars this week | 51,227 | 3,578 |
 | 2026-11-14 | month | #15 | 6,810 stars this month | 50,756 | 3,528 |
 | 2026-11-14 | week | #4 | 4,360 stars this week | 50,756 | 3,528 |
 | 2026-11-13 | week | #3 | 4,601 stars this week | 50,356 | 3,505 |
