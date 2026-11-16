@@ -7,14 +7,15 @@
 - **Repository:** [we-promise/sure](https://github.com/we-promise/sure)
 - **Primary Language:** `Ruby`
 - **First Seen on Trending:** 2026-11-11
-- **Last Seen on Trending:** 2026-11-15
-- **Total Appearances:** 5 (Daily: 5, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 15,337 | **Latest Forks:** 1,269
+- **Last Seen on Trending:** 2026-11-16
+- **Total Appearances:** 6 (Daily: 5, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 15,726 | **Latest Forks:** 1,376
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-16 | week | #7 | 4,556 stars this week | 15,726 | 1,376 |
 | 2026-11-15 | today | #12 | 659 stars today | 15,337 | 1,269 |
 | 2026-11-14 | today | #5 | 925 stars today | 14,779 | 1,122 |
 | 2026-11-13 | today | #5 | 967 stars today | 13,986 | 1,046 |

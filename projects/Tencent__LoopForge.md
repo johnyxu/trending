@@ -7,12 +7,13 @@
 - **Repository:** [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
 - **Primary Language:** `Go`
 - **First Seen on Trending:** 2026-11-15
-- **Last Seen on Trending:** 2026-11-15
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 929 | **Latest Forks:** 216
+- **Last Seen on Trending:** 2026-11-16
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 1,558 | **Latest Forks:** 276
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-16 | today | #7 | 423 stars today | 1,558 | 276 |
 | 2026-11-15 | today | #13 | 33 stars today | 929 | 216 |
