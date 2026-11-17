@@ -7,13 +7,14 @@
 - **Repository:** [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-11-15
-- **Last Seen on Trending:** 2026-11-16
-- **Total Appearances:** 2 (Daily: 0, Weekly: 0, Monthly: 2)
-- **Latest Stars:** 20,086 | **Latest Forks:** 1,875
+- **Last Seen on Trending:** 2026-11-17
+- **Total Appearances:** 3 (Daily: 0, Weekly: 0, Monthly: 3)
+- **Latest Stars:** 20,693 | **Latest Forks:** 1,907
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-17 | month | #14 | 8,363 stars this month | 20,693 | 1,907 |
 | 2026-11-16 | month | #13 | 7,937 stars this month | 20,086 | 1,875 |
 | 2026-11-15 | month | #14 | 7,617 stars this month | 19,639 | 1,839 |

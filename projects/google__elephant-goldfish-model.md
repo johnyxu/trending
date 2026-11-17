@@ -7,14 +7,15 @@
 - **Repository:** [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-11-14
-- **Last Seen on Trending:** 2026-11-16
-- **Total Appearances:** 3 (Daily: 0, Weekly: 3, Monthly: 0)
-- **Latest Stars:** 19,805 | **Latest Forks:** 1,467
+- **Last Seen on Trending:** 2026-11-17
+- **Total Appearances:** 4 (Daily: 0, Weekly: 4, Monthly: 0)
+- **Latest Stars:** 20,449 | **Latest Forks:** 1,511
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-17 | week | #9 | 4,249 stars this week | 20,449 | 1,511 |
 | 2026-11-16 | week | #9 | 5,060 stars this week | 19,805 | 1,467 |
 | 2026-11-15 | week | #5 | 5,539 stars this week | 19,219 | 1,425 |
 | 2026-11-14 | week | #5 | 5,560 stars this week | 18,649 | 1,389 |

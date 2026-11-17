@@ -7,14 +7,15 @@
 - **Repository:** [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-11-12
-- **Last Seen on Trending:** 2026-11-16
-- **Total Appearances:** 5 (Daily: 5, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 7,233 | **Latest Forks:** 605
+- **Last Seen on Trending:** 2026-11-17
+- **Total Appearances:** 6 (Daily: 5, Weekly: 1, Monthly: 0)
+- **Latest Stars:** 8,082 | **Latest Forks:** 703
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-17 | week | #1 | 6,542 stars this week | 8,082 | 703 |
 | 2026-11-16 | today | #10 | 1,219 stars today | 7,233 | 605 |
 | 2026-11-15 | today | #2 | 1,231 stars today | 6,087 | 408 |
 | 2026-11-14 | today | #2 | 1,925 stars today | 4,917 | 272 |
