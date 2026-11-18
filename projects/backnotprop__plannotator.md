@@ -7,14 +7,17 @@
 - **Repository:** [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-11-14
-- **Last Seen on Trending:** 2026-11-17
-- **Total Appearances:** 8 (Daily: 4, Weekly: 3, Monthly: 1)
-- **Latest Stars:** 12,696 | **Latest Forks:** 1,245
+- **Last Seen on Trending:** 2026-11-18
+- **Total Appearances:** 11 (Daily: 5, Weekly: 4, Monthly: 2)
+- **Latest Stars:** 13,118 | **Latest Forks:** 1,315
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-18 | month | #8 | 3,475 stars this month | 13,118 | 1,315 |
+| 2026-11-18 | week | #2 | 2,926 stars this week | 13,118 | 1,315 |
+| 2026-11-18 | today | #11 | 691 stars today | 13,118 | 1,315 |
 | 2026-11-17 | month | #13 | 2,848 stars this month | 12,696 | 1,245 |
 | 2026-11-17 | week | #3 | 2,325 stars this week | 12,696 | 1,245 |
 | 2026-11-17 | today | #2 | 696 stars today | 12,696 | 1,245 |
