@@ -1,20 +1,21 @@
 # [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
-> Write HTML. Render video. Built for agents.
+> AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 
 ## 📊 Project Metadata
 
 - **Repository:** [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-09-08
-- **Last Seen on Trending:** 2026-11-18
-- **Total Appearances:** 93 (Daily: 5, Weekly: 38, Monthly: 50)
-- **Latest Stars:** 86,066 | **Latest Forks:** 7,970
+- **Last Seen on Trending:** 2026-11-19
+- **Total Appearances:** 94 (Daily: 5, Weekly: 38, Monthly: 51)
+- **Latest Stars:** 86,588 | **Latest Forks:** 8,040
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-19 | month | #12 | 20,375 stars this month | 86,588 | 8,040 |
 | 2026-11-18 | month | #10 | 20,425 stars this month | 86,066 | 7,970 |
 | 2026-11-17 | month | #8 | 20,459 stars this month | 85,324 | 7,904 |
 | 2026-11-16 | month | #8 | 20,878 stars this month | 84,764 | 7,848 |

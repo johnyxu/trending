@@ -7,14 +7,15 @@
 - **Repository:** [openai/codex-security](https://github.com/openai/codex-security)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-11-12
-- **Last Seen on Trending:** 2026-11-18
-- **Total Appearances:** 5 (Daily: 3, Weekly: 2, Monthly: 0)
-- **Latest Stars:** 13,982 | **Latest Forks:** 1,094
+- **Last Seen on Trending:** 2026-11-19
+- **Total Appearances:** 6 (Daily: 3, Weekly: 3, Monthly: 0)
+- **Latest Stars:** 14,125 | **Latest Forks:** 1,103
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-19 | week | #14 | 2,630 stars this week | 14,125 | 1,103 |
 | 2026-11-18 | week | #13 | 2,531 stars this week | 13,982 | 1,094 |
 | 2026-11-17 | week | #13 | 2,352 stars this week | 13,802 | 1,078 |
 | 2026-11-14 | today | #3 | 751 stars today | 13,160 | 1,024 |

@@ -7,14 +7,15 @@
 - **Repository:** [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 - **Primary Language:** `JavaScript`
 - **First Seen on Trending:** 2026-10-29
-- **Last Seen on Trending:** 2026-11-18
-- **Total Appearances:** 20 (Daily: 0, Weekly: 7, Monthly: 13)
-- **Latest Stars:** 117,838 | **Latest Forks:** 7,885
+- **Last Seen on Trending:** 2026-11-19
+- **Total Appearances:** 21 (Daily: 0, Weekly: 7, Monthly: 14)
+- **Latest Stars:** 118,498 | **Latest Forks:** 7,929
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-19 | month | #14 | 20,055 stars this month | 118,498 | 7,929 |
 | 2026-11-18 | month | #11 | 19,688 stars this month | 117,838 | 7,885 |
 | 2026-11-17 | month | #10 | 19,384 stars this month | 117,014 | 7,833 |
 | 2026-11-16 | month | #11 | 19,546 stars this month | 116,265 | 7,793 |
