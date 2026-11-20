@@ -7,12 +7,13 @@
 - **Repository:** [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
 - **Primary Language:** `C++`
 - **First Seen on Trending:** 2026-11-19
-- **Last Seen on Trending:** 2026-11-19
-- **Total Appearances:** 1 (Daily: 1, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 11,361 | **Latest Forks:** 3,604
+- **Last Seen on Trending:** 2026-11-20
+- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 11,590 | **Latest Forks:** 3,621
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | today | #8 | 246 stars today | 11,590 | 3,621 |
 | 2026-11-19 | today | #13 | 24 stars today | 11,361 | 3,604 |

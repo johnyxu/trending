@@ -7,14 +7,15 @@
 - **Repository:** [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-11-19
-- **Total Appearances:** 19 (Daily: 7, Weekly: 12, Monthly: 0)
-- **Latest Stars:** 58,234 | **Latest Forks:** 4,878
+- **Last Seen on Trending:** 2026-11-20
+- **Total Appearances:** 20 (Daily: 7, Weekly: 13, Monthly: 0)
+- **Latest Stars:** 58,392 | **Latest Forks:** 4,877
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | week | #6 | 3,229 stars this week | 58,392 | 4,877 |
 | 2026-11-19 | week | #8 | 3,143 stars this week | 58,234 | 4,878 |
 | 2026-11-18 | week | #10 | 2,948 stars this week | 58,070 | 4,870 |
 | 2026-11-17 | today | #13 | 841 stars today | 57,777 | 4,856 |

@@ -1,20 +1,21 @@
 # [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 
-> 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+> 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 
 ## 📊 Project Metadata
 
 - **Repository:** [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-01
-- **Last Seen on Trending:** 2026-11-18
-- **Total Appearances:** 22 (Daily: 3, Weekly: 6, Monthly: 13)
-- **Latest Stars:** 66,107 | **Latest Forks:** 8,675
+- **Last Seen on Trending:** 2026-11-20
+- **Total Appearances:** 23 (Daily: 4, Weekly: 6, Monthly: 13)
+- **Latest Stars:** 66,993 | **Latest Forks:** 8,799
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | today | #4 | 238 stars today | 66,993 | 8,799 |
 | 2026-11-18 | today | #14 | 192 stars today | 66,107 | 8,675 |
 | 2026-10-02 | month | #20 | 6,436 stars this month | 63,053 | 8,188 |
 | 2026-10-01 | month | #16 | 7,328 stars this month | 62,977 | 8,181 |

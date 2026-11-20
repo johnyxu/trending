@@ -7,14 +7,15 @@
 - **Repository:** [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-08-16
-- **Last Seen on Trending:** 2026-11-19
-- **Total Appearances:** 25 (Daily: 9, Weekly: 11, Monthly: 5)
-- **Latest Stars:** 59,854 | **Latest Forks:** 5,435
+- **Last Seen on Trending:** 2026-11-20
+- **Total Appearances:** 26 (Daily: 10, Weekly: 11, Monthly: 5)
+- **Latest Stars:** 60,645 | **Latest Forks:** 5,503
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | today | #3 | 898 stars today | 60,645 | 5,503 |
 | 2026-11-19 | today | #2 | 389 stars today | 59,854 | 5,435 |
 | 2026-10-28 | month | #20 | 6,879 stars this month | 57,446 | 5,171 |
 | 2026-10-25 | week | #14 | 3,069 stars this week | 56,850 | 5,094 |

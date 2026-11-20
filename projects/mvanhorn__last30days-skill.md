@@ -7,14 +7,16 @@
 - **Repository:** [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-07-30
-- **Last Seen on Trending:** 2026-11-19
-- **Total Appearances:** 9 (Daily: 8, Weekly: 1, Monthly: 0)
-- **Latest Stars:** 70,115 | **Latest Forks:** 6,251
+- **Last Seen on Trending:** 2026-11-20
+- **Total Appearances:** 11 (Daily: 9, Weekly: 2, Monthly: 0)
+- **Latest Stars:** 70,875 | **Latest Forks:** 6,314
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | week | #5 | 3,179 stars this week | 70,875 | 6,314 |
+| 2026-11-20 | today | #10 | 954 stars today | 70,875 | 6,314 |
 | 2026-11-19 | week | #11 | 2,423 stars this week | 70,115 | 6,251 |
 | 2026-11-19 | today | #3 | 1,059 stars today | 70,115 | 6,251 |
 | 2026-11-18 | today | #2 | 696 stars today | 69,212 | 6,156 |

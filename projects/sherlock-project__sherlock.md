@@ -7,14 +7,15 @@
 - **Repository:** [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-11-08
-- **Last Seen on Trending:** 2026-11-19
-- **Total Appearances:** 13 (Daily: 4, Weekly: 4, Monthly: 5)
-- **Latest Stars:** 114,228 | **Latest Forks:** 13,131
+- **Last Seen on Trending:** 2026-11-20
+- **Total Appearances:** 14 (Daily: 4, Weekly: 4, Monthly: 6)
+- **Latest Stars:** 114,656 | **Latest Forks:** 13,164
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | month | #11 | 20,350 stars this month | 114,656 | 13,164 |
 | 2026-11-19 | month | #11 | 20,046 stars this month | 114,228 | 13,131 |
 | 2026-11-18 | month | #9 | 19,596 stars this month | 113,845 | 13,101 |
 | 2026-11-17 | month | #9 | 19,079 stars this month | 113,269 | 13,041 |

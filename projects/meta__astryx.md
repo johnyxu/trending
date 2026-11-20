@@ -7,14 +7,15 @@
 - **Repository:** [meta/astryx](https://github.com/meta/astryx)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-11-08
-- **Last Seen on Trending:** 2026-11-19
-- **Total Appearances:** 11 (Daily: 6, Weekly: 5, Monthly: 0)
-- **Latest Stars:** 30,623 | **Latest Forks:** 2,400
+- **Last Seen on Trending:** 2026-11-20
+- **Total Appearances:** 12 (Daily: 6, Weekly: 6, Monthly: 0)
+- **Latest Stars:** 31,019 | **Latest Forks:** 2,434
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-20 | week | #9 | 4,977 stars this week | 31,019 | 2,434 |
 | 2026-11-19 | week | #3 | 6,250 stars this week | 30,623 | 2,400 |
 | 2026-11-18 | week | #3 | 8,700 stars this week | 30,227 | 2,360 |
 | 2026-11-17 | week | #2 | 10,939 stars this week | 29,714 | 2,312 |
