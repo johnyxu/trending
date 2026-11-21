@@ -7,13 +7,14 @@
 - **Repository:** [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-22
-- **Last Seen on Trending:** 2026-11-20
-- **Total Appearances:** 2 (Daily: 2, Weekly: 0, Monthly: 0)
-- **Latest Stars:** 11,376 | **Latest Forks:** 1,945
+- **Last Seen on Trending:** 2026-11-21
+- **Total Appearances:** 3 (Daily: 3, Weekly: 0, Monthly: 0)
+- **Latest Stars:** 12,263 | **Latest Forks:** 2,018
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-21 | today | #16 | 979 stars today | 12,263 | 2,018 |
 | 2026-11-20 | today | #16 | 126 stars today | 11,376 | 1,945 |
 | 2026-09-22 | today | #9 | 250 stars today | 8,226 | 1,569 |

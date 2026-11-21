@@ -7,14 +7,16 @@
 - **Repository:** [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-11-16
-- **Last Seen on Trending:** 2026-11-20
-- **Total Appearances:** 6 (Daily: 4, Weekly: 1, Monthly: 1)
-- **Latest Stars:** 12,677 | **Latest Forks:** 1,601
+- **Last Seen on Trending:** 2026-11-21
+- **Total Appearances:** 8 (Daily: 5, Weekly: 1, Monthly: 2)
+- **Latest Stars:** 14,435 | **Latest Forks:** 1,708
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-21 | month | #15 | 8,329 stars this month | 14,435 | 1,708 |
+| 2026-11-21 | today | #1 | 1,622 stars today | 14,434 | 1,708 |
 | 2026-11-20 | month | #15 | 6,708 stars this month | 12,677 | 1,601 |
 | 2026-11-20 | today | #1 | 1,349 stars today | 12,677 | 1,601 |
 | 2026-11-18 | week | #7 | 2,508 stars this week | 9,563 | 1,381 |

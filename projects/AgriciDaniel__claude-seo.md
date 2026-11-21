@@ -7,14 +7,15 @@
 - **Repository:** [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-10-26
-- **Last Seen on Trending:** 2026-11-20
-- **Total Appearances:** 23 (Daily: 1, Weekly: 10, Monthly: 12)
-- **Latest Stars:** 30,964 | **Latest Forks:** 3,848
+- **Last Seen on Trending:** 2026-11-21
+- **Total Appearances:** 24 (Daily: 1, Weekly: 10, Monthly: 13)
+- **Latest Stars:** 31,194 | **Latest Forks:** 3,859
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-21 | month | #12 | 11,786 stars this month | 31,194 | 3,859 |
 | 2026-11-20 | month | #12 | 11,706 stars this month | 30,964 | 3,848 |
 | 2026-11-19 | month | #13 | 11,532 stars this month | 30,693 | 3,826 |
 | 2026-11-18 | month | #12 | 11,246 stars this month | 30,434 | 3,800 |

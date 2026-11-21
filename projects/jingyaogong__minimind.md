@@ -7,14 +7,15 @@
 - **Repository:** [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-09-01
-- **Last Seen on Trending:** 2026-11-20
-- **Total Appearances:** 23 (Daily: 4, Weekly: 6, Monthly: 13)
-- **Latest Stars:** 66,993 | **Latest Forks:** 8,799
+- **Last Seen on Trending:** 2026-11-21
+- **Total Appearances:** 24 (Daily: 5, Weekly: 6, Monthly: 13)
+- **Latest Stars:** 67,733 | **Latest Forks:** 8,857
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-21 | today | #4 | 847 stars today | 67,733 | 8,857 |
 | 2026-11-20 | today | #4 | 238 stars today | 66,993 | 8,799 |
 | 2026-11-18 | today | #14 | 192 stars today | 66,107 | 8,675 |
 | 2026-10-02 | month | #20 | 6,436 stars this month | 63,053 | 8,188 |

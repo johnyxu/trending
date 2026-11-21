@@ -7,14 +7,15 @@
 - **Repository:** [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 - **Primary Language:** `Python`
 - **First Seen on Trending:** 2026-11-14
-- **Last Seen on Trending:** 2026-11-20
-- **Total Appearances:** 7 (Daily: 4, Weekly: 3, Monthly: 0)
-- **Latest Stars:** 7,274 | **Latest Forks:** 1,463
+- **Last Seen on Trending:** 2026-11-21
+- **Total Appearances:** 8 (Daily: 4, Weekly: 4, Monthly: 0)
+- **Latest Stars:** 7,450 | **Latest Forks:** 1,470
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-21 | week | #7 | 3,471 stars this week | 7,450 | 1,470 |
 | 2026-11-20 | week | #7 | 3,385 stars this week | 7,274 | 1,463 |
 | 2026-11-19 | week | #7 | 3,242 stars this week | 7,096 | 1,439 |
 | 2026-11-18 | week | #11 | 2,985 stars this week | 6,899 | 1,413 |

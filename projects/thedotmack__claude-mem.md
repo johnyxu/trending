@@ -7,14 +7,15 @@
 - **Repository:** [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 - **Primary Language:** `TypeScript`
 - **First Seen on Trending:** 2026-08-28
-- **Last Seen on Trending:** 2026-11-20
-- **Total Appearances:** 64 (Daily: 14, Weekly: 21, Monthly: 29)
-- **Latest Stars:** 118,472 | **Latest Forks:** 10,308
+- **Last Seen on Trending:** 2026-11-21
+- **Total Appearances:** 65 (Daily: 14, Weekly: 21, Monthly: 30)
+- **Latest Stars:** 118,670 | **Latest Forks:** 10,310
 
 ## 📈 Trending History
 
 | Date | Range | Rank | Period Stars | Total Stars | Forks |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-21 | month | #6 | 17,381 stars this month | 118,670 | 10,310 |
 | 2026-11-20 | month | #6 | 17,313 stars this month | 118,472 | 10,308 |
 | 2026-11-19 | month | #7 | 17,311 stars this month | 118,272 | 10,282 |
 | 2026-11-18 | month | #5 | 17,236 stars this month | 118,030 | 10,255 |
